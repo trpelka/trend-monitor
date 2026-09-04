@@ -1,0 +1,37 @@
+# Sources to monitor and keywords to watch for.
+# Edit freely — add/remove feeds and watchlist terms without touching monitor.py.
+#
+# Feeds verified as of Sep 2026: Tech.eu, EU-Startups, TechCrunch Europe.
+# Sifted / AIN Capital / Vestbee feed URLs are best-effort guesses — the script
+# tolerates broken feeds gracefully (logs a warning, skips it, keeps going),
+# so add more feeds freely and just check the digest for "failed to load" notes.
+
+watchlist:
+  - Poland
+  - CEE
+  - DACH
+  - Germany
+  - tender
+  - procurement
+  - market entry
+  - expansion
+  - go-to-market
+  - Baltics
+  - Czech
+  - Romania
+  - Hungary
+  - Nordics
+  - due diligence
+  - compliance
+
+feeds:
+  - name: "Tech.eu"
+    url: "https://tech.eu/feed/"
+  - name: "EU-Startups"
+    url: "https://www.eu-startups.com/feed/"
+  - name: "TechCrunch Europe"
+    url: "https://techcrunch.com/tag/europe/feed/"
+  - name: "Sifted"
+    url: "https://sifted.eu/feed/"
+  - name: "Sifted - CEE"
+    url: "https://sifted.eu/countries/central-and-eastern-europe/feed/"
