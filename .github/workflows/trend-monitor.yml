@@ -1,12 +1,11 @@
-name: Weekly Trend Monitor
+name: Daily Trend Monitor
 
-# Runs every Monday morning, pulls all configured RSS feeds, writes a
-# markdown digest into digests/, and opens a GitHub Issue with the same
-# content so you get a notification without needing email/Slack wired up.
+# Runs every day at 07:00 UTC.
+# Can also be triggered manually from the Actions tab.
 on:
   schedule:
-    - cron: '0 7 * * 1' # Monday 07:00 UTC
-  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+    - cron: '0 7 * * *'
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -15,6 +14,7 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
