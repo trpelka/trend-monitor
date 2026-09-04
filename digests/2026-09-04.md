@@ -3,8 +3,8 @@
 Window: last 7 days · 52 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **further develop** — EU-Startups, Tech.eu
 - **has seed** — EU-Startups, Tech.eu
+- **further develop** — EU-Startups, Tech.eu
 - **has secured** — EU-Startups, Tech.eu
 - **engineer zeit** — EU-Startups, Tech.eu
 - **across further** — EU-Startups, Tech.eu
