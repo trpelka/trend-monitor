@@ -1,16 +1,16 @@
-# Trend digest — 2026-10-11
+# Trend digest — 2026-10-12
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
+- **today announced** — EU-Startups, Tech.eu
+- **announced series** — EU-Startups, Tech.eu
+- **existing investors** — EU-Startups, Tech.eu
+- **unicorn komma** — Sifted, Tech.eu
 - **venture capital** — EU-Startups, Tech.eu
+- **final close** — EU-Startups, Tech.eu
+- **announced final** — EU-Startups, Tech.eu
 - **close fund** — EU-Startups, Tech.eu
-- **ventures participation** — EU-Startups, Tech.eu
-- **intelligence platform** — EU-Startups, Tech.eu
-- **move towards** — EU-Startups, Tech.eu
-- **has secured** — EU-Startups, Tech.eu
-- **closed seed** — EU-Startups, Tech.eu
-- **leonardo dicaprio** — EU-Startups, Sifted
 
 ## Watchlist keyword hits
 
@@ -21,12 +21,21 @@ Window: last 7 days · 54 articles from 5/5 sources
 ### Germany (1)
 - [UK and Germany launch industrial tech corridor to accelerate AI and deeptech growth](https://tech.eu/2026/10/08/uk-and-germany-launch-industrial-tech-corridor-to-accelerate-ai-and-deeptech-growth/) — Tech.eu
 
+### DACH (1)
+- [Gaius Capital closes debut fund at €50 million, raises another €6 million via co-investment vehicle](https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/) — EU-Startups
+
 ### CEE (1)
 - [Ex-OpenAI robotics lead’s factory startup in insolvency proceedings](https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings/) — Sifted
 
 ## All articles this window
 
 ### Tech.eu (20)
+- [Monopulse raises over €2M to advance electronic warfare-resistant drones](https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/)
+- [Scarlet raises $50M Series B to accelerate AI medical device certification](https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/)
+- [AI minister calls on AI frontier labs to ramp up safety, as UK ups cyber defences](https://tech.eu/2026/10/12/ai-minister-calls-on-ai-frontier-labs-to-ramp-up-safety-as-uk-ups-cyber-defences/)
+- [1KOMMA5° reaches $1.35B valuation, plans €100M investment in energy AI](https://tech.eu/2026/10/12/1komma5-reaches-1-35b-valuation-plans-100m-investment-in-energy-ai/)
+- [September 2026's top 10 European tech deals you need to know about](https://tech.eu/2026/10/12/september-2026s-top-10-european-tech-deals-you-need-to-know-about/)
+- [European tech weekly recap: €818M in deals and September's highlights](https://tech.eu/2026/10/12/european-tech-weekly-recap-eur818m-in-deals-and-septembers-highlights/)
 - [Universal Quantum raises $100M,  SAP buys TechWolf, and European startups raise five times more funding in September than August](https://tech.eu/2026/10/09/universal-quantum-raises-100m-sap-buys-techwolf-and-european-startups-raise-five-times-more-funding-in-september-than-august/)
 - [The Fourth Law and Odd Systems launch Project Foundation to quadruple European thermal sensor production](https://tech.eu/2026/10/09/the-fourth-law-and-odd-systems-launch-target-project-foundation-to-quadruple-european-thermal-sensor-production/)
 - [UK to ease non-compete clauses, marking boon for startups and scaleups](https://tech.eu/2026/10/09/uk-o-ban-non-compete-clauses-marking-boon-for-startup-and-scaleups/)
@@ -41,14 +50,11 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Dutch startup Innercrowd raises €750K to turn festival fans into marketers](https://tech.eu/2026/10/08/dutch-startup-innercrowd-raises-eur750k-to-turn-festival-fans-into-marketers/)
 - [TODAY lands €2.8M to scale its AI platform for financial advisors](https://tech.eu/2026/10/08/today-lands-eur28m-to-scale-its-ai-platform-for-financial-advisors/)
 - [PSV Tech closes €56M Fund II to back Nordic startups before product-market fit](https://tech.eu/2026/10/08/psv-tech-closes-eur55m-fund-ii-to-back-nordic-startups-before-product-market-fit/)
-- [Verso raises $6M to bring consumer intelligence into business decision-making](https://tech.eu/2026/10/08/verso-raises-6m-to-bring-consumer-intelligence-into-business-decision-making/)
-- [Golbriak Space raises €4M to scale laser communications for satellite constellations](https://tech.eu/2026/10/08/golbriak-space-raises-eur4m-to-scale-laser-communications-for-satellite-constellations/)
-- [Endeavor Catalyst doubles down on Europe with $320M Fund V as region becomes its fastest-growing market](https://tech.eu/2026/10/07/endeavor-catalyst-doubles-down-on-europe-with-320m-fund-v-as-region-becomes-its-fastest-growing-market/)
-- [UK stablecoin infrastructure startup Noah closes $38M seed round](https://tech.eu/2026/10/07/uk-stablecoin-infrastructure-startup-noah-closes-38m-seed-round/)
-- [Konsileo raises £5M to scale technology-enabled insurance broking](https://tech.eu/2026/10/07/konsileo-raises-ps5m-to-scale-technology-enabled-insurance-broking/)
-- [MintNeuro raises $5M to scale chips purpose-built for neural devices](https://tech.eu/2026/10/07/mintneuro-raises-5m-to-scale-chips-purpose-built-for-neural-devices/)
 
 ### EU-Startups (10)
+- [HyLight raises €13 million for its autonomous airships inspecting Europe’s critical infrastructure](https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/)
+- [Gaius Capital closes debut fund at €50 million, raises another €6 million via co-investment vehicle](https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/)
+- [Profitable French scale-up Wiremind raises €35 million after 12 years of bootstrapping](https://www.eu-startups.com/2026/10/profitable-french-scale-up-wiremind-raises-e35-million-after-12-years-of-bootstrapping/)
 - [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 05 – Oct. 09)](https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-05-oct-09/)
 - [Monte Carlo Capital raises €13 million for Fund II to invest in early-stage DeepTech, AI and SpaceTech](https://www.eu-startups.com/2026/10/monte-carlo-capital-raises-e13-million-for-fund-ii-to-invest-in-early-stage-deeptech-ai-and-spacetech/)
 - [Starfunding: 10 of Europe’s biggest celebrity-backed startup deals](https://www.eu-startups.com/2026/10/10-of-europes-biggest-celebrity-backed-startup-deals/)
@@ -56,11 +62,16 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [London’s Sava raises €32.08 million and partners with Ascensia to bring its glucose microsensor to Europe](https://www.eu-startups.com/2026/10/londons-sava-raises-e32-08-million-and-partners-with-ascensia-to-bring-its-glucose-microsensor-to-europe/)
 - [EXCLUSIVE: Ecosia founder clarifies move away from Mistral – It’s about open models, not China](https://www.eu-startups.com/2026/10/ecosia-founder-clarifies-move-away-from-mistral-its-about-open-models-not-china/)
 - [Zurich’s Klarent raises €7.13 million to scale its agentic software testing platform and expand into the US](https://www.eu-startups.com/2026/10/zurichs-klarent-raises-e7-13-million-to-scale-its-agentic-software-testing-platform-and-expand-into-the-us/)
-- [Bern-based Besso raises €4.29 million to scale its AI-powered trade regulation intelligence platform](https://www.eu-startups.com/2026/10/bern-based-besso-raises-e4-29-million-to-scale-its-ai-powered-trade-regulation-intelligence-platform/)
-- [Leonardo DiCaprio (yes that Leo) announces investment in Swedish EnergyTech startup Elvy](https://www.eu-startups.com/2026/10/leonardo-dicaprio-yes-that-leo-announces-investment-in-swedish-energytech-startup-elvy/)
-- [From lab to launchpad – Our Time at the A5X Conference in Singapore, in partnership with NUSX](https://www.eu-startups.com/2026/10/from-lab-to-launchpad-our-time-at-the-a5x-conference-in-singapore-in-partnership-with-nusx/)
 
 ### Sifted (24)
+- [Stryker to invest $400m in CMR Surgical, with option to buy it outright](https://sifted.eu/articles/stryker-to-invest-400m-in-cmr-surgical-with-option-to-buy-it-outright/)
+- [Energy unicorn 1Komma5 raises €70m as IPO plans remain on ice](https://sifted.eu/articles/energy-unicorn-1komma5-raises-e70m-as-ipo-plans-remain-on-ice/)
+- [UK government mulls compulsory AI safety reporting](https://sifted.eu/articles/uk-government-ai-safety-reporting-kanishka-narayan/)
+- [European consumers are begging for better customer support](https://sifted.eu/articles/european-consumers-better-customer-support-brnd/)
+- [Europe’s fastest-growing fintechs are queueing up for growth-stage funding rounds](https://sifted.eu/articles/europes-fastest-growing-fintechs-are-queueing-up-for-growth-stage-funding-rounds/)
+- [The ‘biggest threat’ China poses for European startups isn’t what you think](https://sifted.eu/articles/threat-china-european-startups-supply-chain/)
+- [Exclusive: Project Europe leads step down as fund readies next chapter](https://sifted.eu/articles/project-europe-founders-step-down-reshuffle/)
+- [Scarcity is the mother of European AI invention](https://sifted.eu/articles/scarcity-is-the-mother-of-european-ai-invention/)
 - [Report: Mistral and others increasingly at risk of open model ‘abliteration’](https://sifted.eu/articles/report-open-model-abliteration-ai-safety/)
 - [LPs’ red flags](https://sifted.eu/articles/lps-red-flags/)
 - [Revolut to roll out agentic shopping as AI commerce takes off](https://sifted.eu/articles/revolut-agentic-shopping/)
@@ -77,11 +88,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Owkin alum raises $25m seed to build world model for human cells](https://sifted.eu/articles/rivercell-world-model-drug-discovery-seed-round/)
 - [Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions](https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/)
 - [Leatherback is now Foren. The name was the last thing to change](https://sifted.eu/articles/leatherback-is-now-foren-brnd/)
-- [How to raise your Series A: what investors want to see from you](https://sifted.eu/articles/how-to-raise-your-series-a/)
-- [The top 10 investors backing Europe’s fastest-growing startups and scaleups](https://sifted.eu/articles/the-top-10-investors-backing-europes-fastest-growing-startups-and-scaleups/)
-- [Slush names inaugural list of 20 tech talents under 20](https://sifted.eu/articles/slush-names-europes-20-tech-talents-under-20/)
-- [European defence tech gets a reality check](https://sifted.eu/articles/european-defence-tech-resilience-conference-london/)
-- [Spiko raises $90m in Series B backed by Index Ventures and Speedinvest](https://sifted.eu/articles/spiko-series-b-fundraise-index-speedinvest/)
-- [SAP to acquire AI startup TechWolf for undisclosed sum](https://sifted.eu/articles/sap-techwolf-acquisition-deal/)
-- [Mistral releases new flagship model as it seeks to close the gap with competitors](https://sifted.eu/articles/mistral-large-four-frontier-ai-models/)
-- [Is Europe’s secondaries boom only serving the 1%?](https://sifted.eu/articles/europe-secondaries-boom-early-stage/)
