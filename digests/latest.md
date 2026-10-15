@@ -1,77 +1,87 @@
-# Trend digest — 2026-10-14
+# Trend digest — 2026-10-15
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **czech** — EU-Startups, Tech.eu
-- **flæ robotics** — EU-Startups, Tech.eu
-- **czech flæ** — EU-Startups, Tech.eu
-- **ventures garage** — EU-Startups, Tech.eu
-- **purple ventures** — EU-Startups, Tech.eu
-- **garage angels** — EU-Startups, Tech.eu
-- **four french** — EU-Startups, Tech.eu
+- **british business** — EU-Startups, Sifted, Tech.eu
+- **business bank** — EU-Startups, Sifted, Tech.eu
+- **today announced** — EU-Startups, Tech.eu
+- **led market** — EU-Startups, Tech.eu
+- **small businesses** — EU-Startups, Tech.eu
 - **has seed** — EU-Startups, Tech.eu
-- **stem education** — EU-Startups, Tech.eu
-- **orbit capital** — EU-Startups, Tech.eu
-- **venture debt** — EU-Startups, Tech.eu
-- **secured venture** — EU-Startups, Tech.eu
-- **coding giants** — EU-Startups, Tech.eu
-- **has secured** — EU-Startups, Tech.eu
-- **series led** — EU-Startups, Tech.eu
+- **market one** — EU-Startups, Tech.eu
+- **marketing small** — EU-Startups, Tech.eu
+- **vilnius-based holo** — EU-Startups, Tech.eu
+- **one capital** — EU-Startups, Tech.eu
+- **develop marketing** — EU-Startups, Tech.eu
+- **investments five** — Sifted, Tech.eu
+- **engineering firm** — EU-Startups, Tech.eu
+- **seedcamp participation** — EU-Startups, Tech.eu
+- **firm construction** — EU-Startups, Tech.eu
 
 ## Watchlist keyword hits
 
-### Czech (2)
+### CEE (1)
+- [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/) — Tech.eu
+
+### procurement (1)
+- [From Slush to sustainable materials: Ambio raises €5.1M for AI-powered plastics procurement](https://tech.eu/2026/10/15/from-slush-to-sustainable-materials-ambio-raises-eur51m-for-ai-powered-plastics-procurement/) — Tech.eu
+
+### expansion (2)
+- [Skeleton Technologies surpasses $1B valuation with Siemens backing for US expansion](https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/) — Tech.eu
+- [New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US](https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/) — EU-Startups
+
+### Czech (1)
 - [Czech startup FLÆ Robotics lands over €1M to automate hotel guest services](https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/) — Tech.eu
-- [FLÆ Robotics raises over €1 million in Seed funding to develop its AI hospitality agent](https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/) — EU-Startups
 
 ### Poland (1)
 - [VitVio brings AI-powered surgical operating system to Poland in UCK Gdańsk partnership](https://tech.eu/2026/10/14/vitvio-brings-ai-powered-surgical-operating-system-to-poland-in-uck-gdansk-partnership/) — Tech.eu
 
-### expansion (2)
-- [UK healthtech startup Stride raises £4.6M to expand preventative health platform](https://tech.eu/2026/10/14/uk-healthtech-startup-stride-raises-ps46m-to-expand-preventative-health-platform/) — Tech.eu
-- [Orbit Capital backs Coding Giants to scale STEM education internationally](https://tech.eu/2026/10/14/orbit-capital-backs-coding-giants-to-scale-stem-education-internationally/) — Tech.eu
-
-### procurement (1)
-- [Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics procurement platform](https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/) — EU-Startups
-
 ## All articles this window
 
 ### Tech.eu (20)
+- [Rabot Energy secures $50M to transform homes into a virtual power plant](https://tech.eu/2026/10/15/rabot-energy-secures-50m-to-transform-homes-into-a-virtual-power-plant/)
+- [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/)
+- [Nebius says struck deals with UK AI labs, welcomes non-compete changes](https://tech.eu/2026/10/15/nebius-says-struck-deals-with-uk-ai-labs-welcomes-non-compete-changes/)
+- [Proptech HomeTruth brings entrepreneur Graham Martin on board as investor and Chairman](https://tech.eu/2026/10/15/hometruth-brings-sky-bet-entrepreneur-graham-martin-on-board-as-investor-and-chairman/)
+- [British Business Bank invests £180M across AI and deeptech funds](https://tech.eu/2026/10/15/british-business-bank-invests-ps180m-across-ai-and-deeptech-and-ai-funds/)
+- [Vilnius-based Holo raises €5M to bring AI-powered marketing to small businesses](https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/)
+- [Nvidia bets on five UK startups](https://tech.eu/2026/10/15/nvidia-bets-on-five-uk-startups/)
+- [Matters emerges from stealth with $5M in pre-seed funding to build AI-native consumer bank](https://tech.eu/2026/10/15/matters-emerges-from-stealth-with-5m-in-pre-seed-funding-to-build-ai-native-consumer-bank/)
+- [From Slush to sustainable materials: Ambio raises €5.1M for AI-powered plastics procurement](https://tech.eu/2026/10/15/from-slush-to-sustainable-materials-ambio-raises-eur51m-for-ai-powered-plastics-procurement/)
+- [Solvera raises $6.3M to scale the AI-native engineering firm](https://tech.eu/2026/10/15/solvera-raises-63m-to-scale-the-ai-native-engineering-firm/)
+- [Salience Labs secures $125M to scale photonic chips for AI data centres](https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/)
+- [Skeleton Technologies surpasses $1B valuation with Siemens backing for US expansion](https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/)
+- [From Rohlik to enterprise AI: Tomáš Čupr's Duvo raises $32M Series A](https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/)
+- [The UK government's £500M sovereign VC fund invests in UK security startup Augur](https://tech.eu/2026/10/14/the-uk-governments-ps500m-vc-fund-backs-uk-security-startup-augur/)
 - [Miracly launches with €1.8M to automate AI-powered marketing](https://tech.eu/2026/10/14/miracly-launches-with-eur18m-to-automate-ai-powered-marketing/)
 - [Czech startup FLÆ Robotics lands over €1M to automate hotel guest services](https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/)
 - [Polish spacetech KP Labs secures €4.42M from Momentum Capital Partners to scale in-orbit AI data processing](https://tech.eu/2026/10/14/polish-spacetech-kp-labs-secures-4-42m-from-momentum-capital-partners-to-scale-in-orbit-ai-data-processing/)
 - [Google to provide 200 European scientists access to its frontier models](https://tech.eu/2026/10/14/google-to-provide-200-european-scientists-access-to-its-frontier-models/)
 - [Nvidia to invest in four French startups, makes $250M UK compute donation](https://tech.eu/2026/10/14/nvidia-invests-in-four-french-tech-companies-makes-ps250m-uk-compute-donation/)
 - [VitVio brings AI-powered surgical operating system to Poland in UCK Gdańsk partnership](https://tech.eu/2026/10/14/vitvio-brings-ai-powered-surgical-operating-system-to-poland-in-uck-gdansk-partnership/)
-- [UK healthtech startup Stride raises £4.6M to expand preventative health platform](https://tech.eu/2026/10/14/uk-healthtech-startup-stride-raises-ps46m-to-expand-preventative-health-platform/)
-- [Orbit Capital backs Coding Giants to scale STEM education internationally](https://tech.eu/2026/10/14/orbit-capital-backs-coding-giants-to-scale-stem-education-internationally/)
-- [Affinity Labs raises $2M to build AI-powered software brands with creators](https://tech.eu/2026/10/14/affinity-labs-raises-2m-to-build-ai-powered-software-brands-with-creators/)
-- [UK launches refugee-focused venture fund with initial £300,000 investment](https://tech.eu/2026/10/13/uk-launches-refugee-focused-venture-fund-with-initial-ps300000-investment/)
-- [Accenture acquires UK customer intelligence firm Sagacity to strengthen AI and data capabilities](https://tech.eu/2026/10/13/accenture-acquires-uk-customer-intelligence-firm-sagacity-to-strengthen-ai-and-data-capabilities/)
-- [Causa Prima lands $20M seed just three months after pre-seed round](https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/)
-- [Less scrolling, more living: How Whimscope is turning everyday ideas into adventures](https://tech.eu/2026/10/13/less-scrolling-more-living-how-whimscope-is-turning-everyday-ideas-into-adventures/)
-- [French deeptech HyLight raises €13M to industrialise autonomous hydrogen-powered airships](https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/)
-- [Spanish fintech ID Finance lands €545M  in debt and equity](https://tech.eu/2026/10/13/spanish-fintech-id-finance-lands-545m-in-debt-and-equity/)
-- [French startup Epyr raises €15M following successful industrial heat storage deployment](https://tech.eu/2026/10/13/french-startup-epyr-raises-eur15m-following-successful-industrial-heat-storage-deployment/)
-- [Sainaptic lands £1M to expand AI-assisted marking technology](https://tech.eu/2026/10/13/sainaptic-lands-ps1m-to-expand-ai-assisted-marking-technology/)
-- [Transport data specialist Alchera raises £2.7M](https://tech.eu/2026/10/13/tranport-data-specialist-alchera-raises-ps27m/)
-- [reebuild secures €3M to automate financial workflows in construction](https://tech.eu/2026/10/13/reebuild-secures-eur3m-to-automate-financial-workflows-in-construction/)
-- [Ubitium raises $14M to bring universal computing to physical AI](https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/)
 
 ### EU-Startups (10)
-- [FLÆ Robotics raises over €1 million in Seed funding to develop its AI hospitality agent](https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/)
-- [What investors really want to know about IP](https://www.eu-startups.com/2026/10/what-investors-really-want-to-know-about-ip/)
-- [Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics procurement platform](https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/)
-- [Spain’s full-stack quantum computing company Qilimanjaro Quantum Tech completes €19.6 million Series A first close](https://www.eu-startups.com/2026/10/barcelonas-full-stack-quantum-computing-company-qilimanjaro-quantum-tech-completes-e19-6-million-first-close-of-its-series-a/)
-- [German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics](https://www.eu-startups.com/2026/10/german-robotics-unicorn-neura-launches-neuron-ai-to-advance-physical-ai-and-humanoid-robotics/)
-- [NVIDIA plans minority investments in four French startups as European tech commitment nears €9 billion](https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/)
-- [Warsaw’s Coding Giants secures up to €6 million to expand its STEM education platform beyond Europe](https://www.eu-startups.com/2026/10/warsaws-coding-giants-secures-up-to-e6-million-to-expand-its-stem-education-platform-beyond-europe/)
-- [London’s Obsero raises €1 million to help brands improve visibility in AI-powered search](https://www.eu-startups.com/2026/10/londons-obsero-raises-e1-million-to-help-brands-improve-visibility-in-ai-powered-search/)
-- [Could crypto give startups an edge? (Sponsored)](https://www.eu-startups.com/2026/10/could-crypto-give-startups-an-edge-sponsored/)
-- [Undecimal Bio lands €16 million to develop targeted RNA medicines beyond the liver](https://www.eu-startups.com/2026/10/undecimal-bio-lands-e16-million-to-develop-targeted-rna-medicines-beyond-the-liver/)
+- [Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose](https://www.eu-startups.com/2026/10/is-eu-inc-in-trouble-european-innovators-warn-landmark-startup-reform-is-being-stripped-of-its-purpose/)
+- [Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech](https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/)
+- [Nvidia is investing heavily into Europe – why now?](https://www.eu-startups.com/2026/10/nvidia-is-investing-heavily-into-europe-why-now/)
+- [10 European startups fighting the next generation of AI cyber threats](https://www.eu-startups.com/2026/10/10-european-startups-fighting-the-next-generation-of-ai-cyber-threats/)
+- [The EU-Startups Podcast | Interview with Cornel Amariei, CEO and founder of .lumen](https://www.eu-startups.com/2026/10/the-eu-startups-podcast-interview-with-cornel-amariei-ceo-and-founder-of-lumen/)
+- [Vilnius-based Holo raises €5 million to put marketing on autopilot for small businesses](https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/)
+- [Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed after July 2026 launch](https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/)
+- [Profitable French accounting company Dougs raises €50 million to accelerate AI automation](https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/)
+- [Nauta secures €60 million first close for sixth fund to back European software and DeepTech startups](https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/)
+- [New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US](https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/)
 
 ### Sifted (24)
+- [Nvidia unveils investments in five more UK startups](https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/)
+- [Nick Clegg on Europe, AI and big tech](https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/)
+- [‘Customers are happier if we provide the full suite’: Why startups are embracing all-in-one finance platforms](https://sifted.eu/articles/startups-embracing-all-in-one-finance-platforms-brnd/)
+- [Exclusive: British Business Bank puts £180m into six AI funds, including Evantic and EF](https://sifted.eu/articles/british-business-bank-180m-vc-firms/)
+- [EU Inc campaigners accuse lawmakers of ‘killing’ landmark reforms](https://sifted.eu/articles/eu-inc-open-letter-european-commission-warning/)
+- [What Europe’s spinouts need to capitalise on deeptech boom: patient capital, customer obsession and support for female founders](https://sifted.eu/articles/europes-spinouts-capitalise-deeptech-boom/)
+- [AI personal finance platform Matters raises $5m pre-seed](https://sifted.eu/articles/matters-5m-pre-seed/)
+- [Tandem Health tops Sifted’s ranking of 100 standout AI startups in Europe](https://sifted.eu/articles/tandem-health-tops-ai100/)
 - [AI is turning finance from reactive to proactive](https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd/)
 - [How I became a community manager at Lovable](https://sifted.eu/articles/how-i-got-hired-by-lovable/)
 - [What US Big Tech taught me about leading a startup — and what I had to unlearn](https://sifted.eu/articles/what-big-tech-taught-me/)
@@ -88,11 +98,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [What will it take for Europe to win in physical AI?](https://sifted.eu/articles/sifted-summit-europe-physical-ai/)
 - [This ex-Pleo exec plans on taking on US rivals with his ‘AI CFO’ startup](https://sifted.eu/articles/light-jonathan-sanders-interview/)
 - [Where the next big companies in Europe could come from, according to US investor](https://sifted.eu/articles/where-next-big-companies-europe-could-come-from-deepmind-ai-us/)
-- [Stryker to invest $400m in CMR Surgical, with option to buy it outright](https://sifted.eu/articles/stryker-to-invest-400m-in-cmr-surgical-with-option-to-buy-it-outright/)
-- [Energy unicorn 1Komma5 raises €70m as IPO plans remain on ice](https://sifted.eu/articles/energy-unicorn-1komma5-raises-e70m-as-ipo-plans-remain-on-ice/)
-- [UK government mulls compulsory AI safety reporting](https://sifted.eu/articles/uk-government-ai-safety-reporting-kanishka-narayan/)
-- [European consumers are begging for better customer support](https://sifted.eu/articles/european-consumers-better-customer-support-brnd/)
-- [Europe’s fastest-growing fintechs are queueing up for growth-stage funding rounds](https://sifted.eu/articles/europes-fastest-growing-fintechs-are-queueing-up-for-growth-stage-funding-rounds/)
-- [The ‘biggest threat’ China poses for European startups isn’t what you think](https://sifted.eu/articles/threat-china-european-startups-supply-chain/)
-- [Exclusive: Project Europe leads step down as fund readies next chapter](https://sifted.eu/articles/project-europe-founders-step-down-reshuffle/)
-- [Scarcity is the mother of European AI invention](https://sifted.eu/articles/scarcity-is-the-mother-of-european-ai-invention/)
