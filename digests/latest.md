@@ -1,45 +1,41 @@
-# Trend digest — 2026-10-15
+# Trend digest — 2026-10-16
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
 - **british business** — EU-Startups, Sifted, Tech.eu
 - **business bank** — EU-Startups, Sifted, Tech.eu
-- **today announced** — EU-Startups, Tech.eu
-- **led market** — EU-Startups, Tech.eu
-- **small businesses** — EU-Startups, Tech.eu
+- **issued urgent** — EU-Startups, Tech.eu
 - **has seed** — EU-Startups, Tech.eu
-- **market one** — EU-Startups, Tech.eu
-- **marketing small** — EU-Startups, Tech.eu
-- **vilnius-based holo** — EU-Startups, Tech.eu
-- **one capital** — EU-Startups, Tech.eu
-- **develop marketing** — EU-Startups, Tech.eu
 - **investments five** — Sifted, Tech.eu
-- **engineering firm** — EU-Startups, Tech.eu
-- **seedcamp participation** — EU-Startups, Tech.eu
-- **firm construction** — EU-Startups, Tech.eu
+- **procurement** — EU-Startups, Tech.eu
+- **seed led** — EU-Startups, Tech.eu
+- **secures scale** — EU-Startups, Tech.eu
+- **finance platform** — EU-Startups, Sifted
 
 ## Watchlist keyword hits
 
 ### CEE (1)
 - [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/) — Tech.eu
 
-### procurement (1)
+### procurement (2)
 - [From Slush to sustainable materials: Ambio raises €5.1M for AI-powered plastics procurement](https://tech.eu/2026/10/15/from-slush-to-sustainable-materials-ambio-raises-eur51m-for-ai-powered-plastics-procurement/) — Tech.eu
+- [German AI startup Elevatry secures €3 million to automate procurement workflows](https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/) — EU-Startups
 
-### expansion (2)
+### expansion (1)
 - [Skeleton Technologies surpasses $1B valuation with Siemens backing for US expansion](https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/) — Tech.eu
-- [New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US](https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/) — EU-Startups
 
-### Czech (1)
-- [Czech startup FLÆ Robotics lands over €1M to automate hotel guest services](https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/) — Tech.eu
-
-### Poland (1)
-- [VitVio brings AI-powered surgical operating system to Poland in UCK Gdańsk partnership](https://tech.eu/2026/10/14/vitvio-brings-ai-powered-surgical-operating-system-to-poland-in-uck-gdansk-partnership/) — Tech.eu
+### market entry (1)
+- [German AI startup Elevatry secures €3 million to automate procurement workflows](https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/) — EU-Startups
 
 ## All articles this window
 
 ### Tech.eu (20)
+- [A16z-backed UK fintech Sequence sold to Intuit in reported $200M deal](https://tech.eu/2026/10/16/a16z-backed-uk-fintech-sequence-sold-to-intuit-in-reported-200m-deal/)
+- [Hostinger CEO: AI is moving faster than people's willingness to use it](https://tech.eu/2026/10/16/hostinger-ceo-ai-is-moving-faster-than-peoples-willingness-to-use-it/)
+- [EU Inc: Will Europe blow its biggest chance to get startups right?](https://tech.eu/2026/10/16/eu-inc-will-europe-blow-its-biggest-chance-to-get-startups-right/)
+- [Prototype warfare: A defence prime’s playbook for turning technology into battlefield capability](https://tech.eu/2026/10/15/prototype-warfare-a-defence-prime-s-playbook-for-turning-technology-into-battlefield-capability/)
+- [Tech Race Summit participants warn of obstacles to turning AI pilots into profits [Sponsored]](https://tech.eu/2026/10/15/tech-race-summit-participants-warn-of-obstacles-to-turning-ai-pilots-into-profits/)
 - [Rabot Energy secures $50M to transform homes into a virtual power plant](https://tech.eu/2026/10/15/rabot-energy-secures-50m-to-transform-homes-into-a-virtual-power-plant/)
 - [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/)
 - [Nebius says struck deals with UK AI labs, welcomes non-compete changes](https://tech.eu/2026/10/15/nebius-says-struck-deals-with-uk-ai-labs-welcomes-non-compete-changes/)
@@ -55,25 +51,26 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [From Rohlik to enterprise AI: Tomáš Čupr's Duvo raises $32M Series A](https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/)
 - [The UK government's £500M sovereign VC fund invests in UK security startup Augur](https://tech.eu/2026/10/14/the-uk-governments-ps500m-vc-fund-backs-uk-security-startup-augur/)
 - [Miracly launches with €1.8M to automate AI-powered marketing](https://tech.eu/2026/10/14/miracly-launches-with-eur18m-to-automate-ai-powered-marketing/)
-- [Czech startup FLÆ Robotics lands over €1M to automate hotel guest services](https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/)
-- [Polish spacetech KP Labs secures €4.42M from Momentum Capital Partners to scale in-orbit AI data processing](https://tech.eu/2026/10/14/polish-spacetech-kp-labs-secures-4-42m-from-momentum-capital-partners-to-scale-in-orbit-ai-data-processing/)
-- [Google to provide 200 European scientists access to its frontier models](https://tech.eu/2026/10/14/google-to-provide-200-european-scientists-access-to-its-frontier-models/)
-- [Nvidia to invest in four French startups, makes $250M UK compute donation](https://tech.eu/2026/10/14/nvidia-invests-in-four-french-tech-companies-makes-ps250m-uk-compute-donation/)
-- [VitVio brings AI-powered surgical operating system to Poland in UCK Gdańsk partnership](https://tech.eu/2026/10/14/vitvio-brings-ai-powered-surgical-operating-system-to-poland-in-uck-gdansk-partnership/)
 
 ### EU-Startups (10)
+- [New treatment for inflammatory bowel disease lands Microbiotica €42 million](https://www.eu-startups.com/2026/10/new-treatment-for-inflammatory-bowel-disease-lands-microbiotica-e42-million/)
+- [Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half](https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/)
+- [AWS wants to prove its cloud can survive without the US, European startups are already there](https://www.eu-startups.com/2026/10/aws-wants-to-prove-its-cloud-can-survive-without-the-us-european-startups-are-already-there/)
+- [London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab](https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/)
+- [Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform](https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/)
+- [Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs](https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/)
+- [German AI startup Elevatry secures €3 million to automate procurement workflows](https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/)
+- [OPINION: Are we attracting talent to live in Europe or to build here?](https://www.eu-startups.com/2026/10/are-we-attracting-talent-to-live-in-europe-or-to-build-here/)
 - [Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose](https://www.eu-startups.com/2026/10/is-eu-inc-in-trouble-european-innovators-warn-landmark-startup-reform-is-being-stripped-of-its-purpose/)
 - [Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech](https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/)
-- [Nvidia is investing heavily into Europe – why now?](https://www.eu-startups.com/2026/10/nvidia-is-investing-heavily-into-europe-why-now/)
-- [10 European startups fighting the next generation of AI cyber threats](https://www.eu-startups.com/2026/10/10-european-startups-fighting-the-next-generation-of-ai-cyber-threats/)
-- [The EU-Startups Podcast | Interview with Cornel Amariei, CEO and founder of .lumen](https://www.eu-startups.com/2026/10/the-eu-startups-podcast-interview-with-cornel-amariei-ceo-and-founder-of-lumen/)
-- [Vilnius-based Holo raises €5 million to put marketing on autopilot for small businesses](https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/)
-- [Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed after July 2026 launch](https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/)
-- [Profitable French accounting company Dougs raises €50 million to accelerate AI automation](https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/)
-- [Nauta secures €60 million first close for sixth fund to back European software and DeepTech startups](https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/)
-- [New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US](https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/)
 
 ### Sifted (24)
+- [Are open-weight AI models safe?](https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/)
+- [The 'blurry' world of defence tech revenue](https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/)
+- [‘I’m 30. I’ve got one more shot’: Reson8’s founder wants to build a European AI giant](https://sifted.eu/articles/reson8-unicorn-interview/)
+- [Europe’s AI fintech market mapped: 94 startups automating the business of money](https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/)
+- [Exclusive: Accel set to lead DeepMind alum’s $60m round](https://sifted.eu/articles/accel-deepmind-researcher-60m/)
+- [Jensen Huang wants Europe to dream bigger — with Nvidia’s help](https://sifted.eu/articles/jensen-huang-london-2026/)
 - [Nvidia unveils investments in five more UK startups](https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/)
 - [Nick Clegg on Europe, AI and big tech](https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/)
 - [‘Customers are happier if we provide the full suite’: Why startups are embracing all-in-one finance platforms](https://sifted.eu/articles/startups-embracing-all-in-one-finance-platforms-brnd/)
@@ -92,9 +89,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Where Europe's most active pre-seed investors are looking next](https://sifted.eu/articles/where-europes-most-active-pre-seed-investors-are-looking-next/)
 - [UK’s first VC fund for refugee founders launches, backed by Atomico](https://sifted.eu/articles/refugee-vc-fund-atomico-investment-uk/)
 - [Nvidia announces billion-dollar investments in European tech](https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/)
-- [‘People just don’t care’: why fintech sovereignty won’t work in Europe](https://sifted.eu/articles/fintech-sovereignty-sifted-summit/)
-- [Five Luxembourg companies turning traction into growth](https://sifted.eu/articles/luxembourg-companies-turning-traction-into-growth-brnd/)
-- [Inside SF's growing ecosystem for European founders](https://sifted.eu/articles/san-francisco-ecosystem-european-founders/)
-- [What will it take for Europe to win in physical AI?](https://sifted.eu/articles/sifted-summit-europe-physical-ai/)
-- [This ex-Pleo exec plans on taking on US rivals with his ‘AI CFO’ startup](https://sifted.eu/articles/light-jonathan-sanders-interview/)
-- [Where the next big companies in Europe could come from, according to US investor](https://sifted.eu/articles/where-next-big-companies-europe-could-come-from-deepmind-ai-us/)
