@@ -1,15 +1,16 @@
-# Trend digest — 2026-10-16
+# Trend digest — 2026-10-17
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **british business** — EU-Startups, Sifted, Tech.eu
 - **business bank** — EU-Startups, Sifted, Tech.eu
-- **issued urgent** — EU-Startups, Tech.eu
+- **british business** — EU-Startups, Sifted, Tech.eu
+- **across has** — EU-Startups, Tech.eu
 - **has seed** — EU-Startups, Tech.eu
 - **investments five** — Sifted, Tech.eu
 - **procurement** — EU-Startups, Tech.eu
 - **seed led** — EU-Startups, Tech.eu
+- **oversubscribed series** — EU-Startups, Tech.eu
 - **secures scale** — EU-Startups, Tech.eu
 - **finance platform** — EU-Startups, Sifted
 
@@ -25,12 +26,17 @@ Window: last 7 days · 54 articles from 5/5 sources
 ### expansion (1)
 - [Skeleton Technologies surpasses $1B valuation with Siemens backing for US expansion](https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/) — Tech.eu
 
+### due diligence (1)
+- [OPINION: How founders can stop wasting time on fundraising](https://www.eu-startups.com/2026/10/opinion-how-founders-can-stop-wasting-time-on-fundraising/) — EU-Startups
+
 ### market entry (1)
 - [German AI startup Elevatry secures €3 million to automate procurement workflows](https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/) — EU-Startups
 
 ## All articles this window
 
 ### Tech.eu (20)
+- [ID Finance lands €545M, UK launches refugee-focused VC fund, and the race to save EU Inc](https://tech.eu/2026/10/16/id-finance-lands-545m-uk-launches-refugee-focused-vc-fund-and-the-race-to-save-eu-inc/)
+- [DJ Reinier Zonneveld launches AI music startup GasLab with $1M pre-seed funding](https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/)
 - [A16z-backed UK fintech Sequence sold to Intuit in reported $200M deal](https://tech.eu/2026/10/16/a16z-backed-uk-fintech-sequence-sold-to-intuit-in-reported-200m-deal/)
 - [Hostinger CEO: AI is moving faster than people's willingness to use it](https://tech.eu/2026/10/16/hostinger-ceo-ai-is-moving-faster-than-peoples-willingness-to-use-it/)
 - [EU Inc: Will Europe blow its biggest chance to get startups right?](https://tech.eu/2026/10/16/eu-inc-will-europe-blow-its-biggest-chance-to-get-startups-right/)
@@ -49,10 +55,11 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Salience Labs secures $125M to scale photonic chips for AI data centres](https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/)
 - [Skeleton Technologies surpasses $1B valuation with Siemens backing for US expansion](https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/)
 - [From Rohlik to enterprise AI: Tomáš Čupr's Duvo raises $32M Series A](https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/)
-- [The UK government's £500M sovereign VC fund invests in UK security startup Augur](https://tech.eu/2026/10/14/the-uk-governments-ps500m-vc-fund-backs-uk-security-startup-augur/)
-- [Miracly launches with €1.8M to automate AI-powered marketing](https://tech.eu/2026/10/14/miracly-launches-with-eur18m-to-automate-ai-powered-marketing/)
 
 ### EU-Startups (10)
+- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)](https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/)
+- [Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients](https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/)
+- [OPINION: How founders can stop wasting time on fundraising](https://www.eu-startups.com/2026/10/opinion-how-founders-can-stop-wasting-time-on-fundraising/)
 - [New treatment for inflammatory bowel disease lands Microbiotica €42 million](https://www.eu-startups.com/2026/10/new-treatment-for-inflammatory-bowel-disease-lands-microbiotica-e42-million/)
 - [Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half](https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/)
 - [AWS wants to prove its cloud can survive without the US, European startups are already there](https://www.eu-startups.com/2026/10/aws-wants-to-prove-its-cloud-can-survive-without-the-us-european-startups-are-already-there/)
@@ -60,11 +67,9 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform](https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/)
 - [Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs](https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/)
 - [German AI startup Elevatry secures €3 million to automate procurement workflows](https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/)
-- [OPINION: Are we attracting talent to live in Europe or to build here?](https://www.eu-startups.com/2026/10/are-we-attracting-talent-to-live-in-europe-or-to-build-here/)
-- [Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose](https://www.eu-startups.com/2026/10/is-eu-inc-in-trouble-european-innovators-warn-landmark-startup-reform-is-being-stripped-of-its-purpose/)
-- [Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech](https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/)
 
 ### Sifted (24)
+- [Harry Stebbings on 996 regrets, political ambitions and building a personal brand](https://sifted.eu/articles/harry-stebbings-podcast/)
 - [Are open-weight AI models safe?](https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/)
 - [The 'blurry' world of defence tech revenue](https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/)
 - [‘I’m 30. I’ve got one more shot’: Reson8’s founder wants to build a European AI giant](https://sifted.eu/articles/reson8-unicorn-interview/)
@@ -88,4 +93,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [The 68 most promising impact startups in Europe, according to investors](https://sifted.eu/articles/most-promising-impact-startups/)
 - [Where Europe's most active pre-seed investors are looking next](https://sifted.eu/articles/where-europes-most-active-pre-seed-investors-are-looking-next/)
 - [UK’s first VC fund for refugee founders launches, backed by Atomico](https://sifted.eu/articles/refugee-vc-fund-atomico-investment-uk/)
-- [Nvidia announces billion-dollar investments in European tech](https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/)
