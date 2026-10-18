@@ -1,10 +1,10 @@
-# Trend digest — 2026-10-17
+# Trend digest — 2026-10-18
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **business bank** — EU-Startups, Sifted, Tech.eu
 - **british business** — EU-Startups, Sifted, Tech.eu
+- **business bank** — EU-Startups, Sifted, Tech.eu
 - **across has** — EU-Startups, Tech.eu
 - **has seed** — EU-Startups, Tech.eu
 - **investments five** — Sifted, Tech.eu
