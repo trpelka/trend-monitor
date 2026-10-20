@@ -1,35 +1,43 @@
-# Trend digest — 2026-10-19
+# Trend digest — 2026-10-20
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **transition fund** — EU-Startups, Tech.eu
-- **alantra energy** — EU-Startups, Tech.eu
-- **gohub ventures** — EU-Startups, Tech.eu
-- **fund alantra** — EU-Startups, Tech.eu
-- **energy management** — EU-Startups, Tech.eu
-- **energy transition** — EU-Startups, Tech.eu
-- **ventures remaining** — EU-Startups, Tech.eu
-- **has closed** — EU-Startups, Tech.eu
-- **enzo ventures** — EU-Startups, Tech.eu
-- **ventures has** — EU-Startups, Tech.eu
-- **vessla exits** — EU-Startups, Tech.eu
-- **fund tiny** — EU-Startups, Tech.eu
-- **tiny operators** — EU-Startups, Tech.eu
-- **emerged stealth** — EU-Startups, Tech.eu
-- **stealth bring** — EU-Startups, Tech.eu
+- **cryogenic signalling** — EU-Startups, Tech.eu
+- **signalling control** — EU-Startups, Tech.eu
+- **coherence quantum** — EU-Startups, Tech.eu
+- **has seed** — EU-Startups, Tech.eu
+- **ventures emblem** — EU-Startups, Tech.eu
+- **people ventures** — EU-Startups, Tech.eu
+- **germany** — EU-Startups, Tech.eu
+- **pre-seed led** — EU-Startups, Tech.eu
 
 ## Watchlist keyword hits
 
-### Germany (1)
-- [German VCs call for €15B annual funding boost to build the next generation of tech giants](https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/) — Tech.eu
+### expansion (1)
+- [Ganiga secures €2.5M to expand its AI-powered food waste technology](https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/) — Tech.eu
 
-### CEE (1)
-- [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/) — Tech.eu
+### Germany (4)
+- [NOVUS secures eight-figure funding to take its electric Lightbike from Germany to California](https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/) — Tech.eu
+- [German VCs call for €15B annual funding boost to build the next generation of tech giants](https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/) — Tech.eu
+- [OPINION: Europe needs more than just successful exits](https://www.eu-startups.com/2026/10/opinion-europe-needs-more-than-just-successful-exits/) — EU-Startups
+- [Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Austria’s NXAI for physical AI](https://www.eu-startups.com/2026/10/germanys-neura-robotics-shows-no-signs-of-slowing-down-as-it-teams-up-with-austrias-nxai-for-physical-ai/) — EU-Startups
+
+### Nordics (1)
+- [Turbine Capital closes €54 million DeepTech fund to connect Nordic startups with industrial leaders](https://www.eu-startups.com/2026/10/turbine-capital-closes-e54-million-deeptech-fund-to-connect-nordic-startups-with-industrial-leaders/) — EU-Startups
 
 ## All articles this window
 
 ### Tech.eu (20)
+- [EIT launches €40M funding call to help bring university deep tech research to market](https://tech.eu/2026/10/20/eit-launches-eur40m-funding-call-to-help-bring-university-deep-tech-research-to-market/)
+- [Silent sailing, noisy generators: Hydrogen startups PowerUP and H2Boat tackle yachting's diesel problem](https://tech.eu/2026/10/20/silent-sailing-noisy-generators-hydrogen-startups-powerup-and-h2boat-tackle-yachting-s-diesel-problem/)
+- [Nvidia invests in four German startups as part of $10BN European investment pledge](https://tech.eu/2026/10/20/nvidia-invests-in-four-german-startups-as-part-of-10bn-european-investment-pledge/)
+- [Coherence Quantum raises €2.78M to tackle quantum computer scaling challenges](https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/)
+- [Blackwall hits $2.2B valuation with $100M Series C just weeks after joining Estonia's unicorn club](https://tech.eu/2026/10/20/blackwall-hits-2-2b-valuation-with-100m-series-c-just-weeks-after-joining-estonia-s-unicorn-club/)
+- [Ganiga secures €2.5M to expand its AI-powered food waste technology](https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/)
+- [Former Google DeepMind top researcher launches London “compute-efficient” AI company](https://tech.eu/2026/10/20/former-google-deepmind-top-researcher-launches-london-compute-efficient-ai-company/)
+- [Danish startup Plinto raises €2.9M to streamline financial controls](https://tech.eu/2026/10/20/danish-startup-plinto-raises-eur29m-to-streamline-financial-controls/)
+- [NOVUS secures eight-figure funding to take its electric Lightbike from Germany to California](https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/)
 - [German VCs call for €15B annual funding boost to build the next generation of tech giants](https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/)
 - [Linkener secures €7.5M to expand its energy management platform](https://tech.eu/2026/10/19/linkener-secures-eur75m-to-expand-its-energy-management-platform/)
 - [Barcelona-based Enzo Ventures closes €20M Fund II backing Southern European founders](https://tech.eu/2026/10/19/barcelona-based-enzo-ventures-closes-eur20m-fund-backing-southern-european-founders/)
@@ -41,29 +49,24 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [A16z-backed UK fintech Sequence sold to Intuit](https://tech.eu/2026/10/16/a16z-backed-uk-fintech-sequence-sold-to-intuit-in-reported-200m-deal/)
 - [Hostinger CEO: AI is moving faster than people's willingness to use it](https://tech.eu/2026/10/16/hostinger-ceo-ai-is-moving-faster-than-peoples-willingness-to-use-it/)
 - [EU Inc: Will Europe blow its biggest chance to get startups right?](https://tech.eu/2026/10/16/eu-inc-will-europe-blow-its-biggest-chance-to-get-startups-right/)
-- [Prototype warfare: A defence prime’s playbook for turning technology into battlefield capability](https://tech.eu/2026/10/15/prototype-warfare-a-defence-prime-s-playbook-for-turning-technology-into-battlefield-capability/)
-- [Tech Race Summit participants warn of obstacles to turning AI pilots into profits [Sponsored]](https://tech.eu/2026/10/15/tech-race-summit-participants-warn-of-obstacles-to-turning-ai-pilots-into-profits/)
-- [Rabot Energy secures $50M to transform homes into a virtual power plant](https://tech.eu/2026/10/15/rabot-energy-secures-50m-to-transform-homes-into-a-virtual-power-plant/)
-- [AI: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/)
-- [Nebius says struck deals with UK AI labs, welcomes non-compete changes](https://tech.eu/2026/10/15/nebius-says-struck-deals-with-uk-ai-labs-welcomes-non-compete-changes/)
-- [Proptech HomeTruth brings entrepreneur Graham Martin on board as investor and Chairman](https://tech.eu/2026/10/15/hometruth-brings-sky-bet-entrepreneur-graham-martin-on-board-as-investor-and-chairman/)
-- [British Business Bank invests £180M across AI and deeptech funds](https://tech.eu/2026/10/15/british-business-bank-invests-ps180m-across-ai-and-deeptech-and-ai-funds/)
-- [Vilnius-based Holo raises €5M to bring AI-powered marketing to small businesses](https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/)
-- [Nvidia bets on five UK startups](https://tech.eu/2026/10/15/nvidia-bets-on-five-uk-startups/)
 
 ### EU-Startups (10)
-- [Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses](https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/)
-- [OPINION: Selling your startup does not mean success](https://www.eu-startups.com/2026/10/opinion-what-if-selling-your-startup-is-the-biggest-mistake-you-ever-make/)
-- [British payments unicorn Zilch invests €91 million in larger London headquarters amid continued growth](https://www.eu-startups.com/2026/10/british-payments-unicorn-zilch-invests-e91-million-in-larger-london-headquarters-amid-continued-growth/)
-- [Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund](https://www.eu-startups.com/2026/10/spanish-vc-enzo-ventures-doubles-down-on-early-stage-startups-with-new-e20-million-fund/)
-- [Bristol’s Siloton wins €9.98 million Innovate UK contract to develop its handheld eye imaging system](https://www.eu-startups.com/2026/10/bristols-siloton-wins-e9-98-million-innovate-uk-contract-to-develop-its-handheld-eye-imaging-system/)
-- [Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials](https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/)
-- [Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management](https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/)
-- [Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios](https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/)
-- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)](https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/)
-- [Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients](https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/)
+- [EIF commits €20 million to Swedish VC BackingMinds to support underrepresented entrepreneurs](https://www.eu-startups.com/2026/10/eif-commits-e20-million-to-swedish-vc-backingminds-to-support-underrepresented-entrepreneurs/)
+- [OPINION: Europe needs more than just successful exits](https://www.eu-startups.com/2026/10/opinion-europe-needs-more-than-just-successful-exits/)
+- [Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Austria’s NXAI for physical AI](https://www.eu-startups.com/2026/10/germanys-neura-robotics-shows-no-signs-of-slowing-down-as-it-teams-up-with-austrias-nxai-for-physical-ai/)
+- [Espoo’s Coherence Quantum raises €2.78 million to build infrastructure for larger quantum computers](https://www.eu-startups.com/2026/10/espoo-based-coherence-quantum-raises-e2-78-million-to-build-infrastructure-for-larger-quantum-computers/)
+- [EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion net-zero funding](https://www.eu-startups.com/2026/10/eu-startups-identifies-20-startups-among-77-projects-selected-for-e3-4-billion-net-zero-funding/)
+- [London’s Emerald secures €1.66 million to scale its preventive healthcare platform](https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/)
+- [London-based “Surgical Intelligence” company XRlabs raises €7.48 million to bring AI into the operating room](https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/)
+- [Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents](https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/)
+- [Turbine Capital closes €54 million DeepTech fund to connect Nordic startups with industrial leaders](https://www.eu-startups.com/2026/10/turbine-capital-closes-e54-million-deeptech-fund-to-connect-nordic-startups-with-industrial-leaders/)
+- [15 startups helping AI discover your company and product](https://www.eu-startups.com/2026/10/15-startups-helping-ai-discover-your-company-and-product/)
 
 ### Sifted (24)
+- [‘The true barrier to entry is scale’: Inside the new frontier of European fintech’s AI arms race](https://sifted.eu/articles/transactional-foundation-models/)
+- [Revolut app down in widespread outage](https://sifted.eu/articles/revolut-outage/)
+- [Ex-DeepMind researcher Thore Graepel launches new startup Metis Reasoning](https://sifted.eu/articles/thore-graepel-metis-reasoning/)
+- [As France reels from days of violence, founders brace for more uncertainty](https://sifted.eu/articles/french-protests-startup-nation/)
 - [The investors with the biggest jumps in the Sifted AI 100](https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/)
 - [Governments need startups. So why is it so hard to sell to them?](https://sifted.eu/articles/government-procurement-selling-ai-sifted-summit/)
 - [Harry Stebbings on 996 regrets, political ambitions and building a personal brand](https://sifted.eu/articles/harry-stebbings-podcast/)
@@ -84,7 +87,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [AI is turning finance from reactive to proactive](https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd/)
 - [How I became a community manager at Lovable](https://sifted.eu/articles/how-i-got-hired-by-lovable/)
 - [What US Big Tech taught me about leading a startup — and what I had to unlearn](https://sifted.eu/articles/what-big-tech-taught-me/)
-- [‘There's never a right time to start’: Why founders don’t need a master plan before starting a business](https://sifted.eu/articles/founders-dont-need-a-master-plan-brnd/)
-- [‘Fundraising is uncapped here’: Why Europe’s quantum founders are bullish about building homegrown champions](https://sifted.eu/articles/sifted-summit-quantum-computing-european-champions/)
-- [14 Portuguese fintech startups to watch, according to VCs](https://sifted.eu/articles/portuguese-fintech-startups/)
-- [The 68 most promising impact startups in Europe, according to investors](https://sifted.eu/articles/most-promising-impact-startups/)
