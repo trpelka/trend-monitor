@@ -1,37 +1,43 @@
-# Trend digest — 2026-10-21
+# Trend digest — 2026-10-22
 
 Window: last 7 days · 54 articles from 5/5 sources
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
+- **yann lecun** — EU-Startups, Sifted, Tech.eu
+- **arthur mensch** — EU-Startups, Sifted, Tech.eu
 - **photon bridge** — EU-Startups, Sifted, Tech.eu
-- **series led** — EU-Startups, Sifted, Tech.eu
-- **bottleneck infrastructure** — EU-Startups, Tech.eu
-- **emerging bottleneck** — EU-Startups, Tech.eu
-- **lasers needed** — EU-Startups, Tech.eu
-- **has tackle** — EU-Startups, Tech.eu
-- **millions lasers** — EU-Startups, Tech.eu
-- **increasingly large** — EU-Startups, Tech.eu
-- **tackle emerging** — EU-Startups, Tech.eu
-- **needed connect** — EU-Startups, Tech.eu
-- **infrastructure producing** — EU-Startups, Tech.eu
-- **connect increasingly** — EU-Startups, Tech.eu
-- **producing millions** — EU-Startups, Tech.eu
-- **has secured** — EU-Startups, Tech.eu
-- **scaleup fund** — Sifted, Tech.eu
+- **follow-on investment** — EU-Startups, Tech.eu
+- **partners lince** — EU-Startups, Tech.eu
+- **unmanned aerial** — EU-Startups, Tech.eu
+- **capital partners** — EU-Startups, Tech.eu
+- **investment activecap** — EU-Startups, Tech.eu
+- **índico capital** — EU-Startups, Tech.eu
+- **vision scale** — EU-Startups, Tech.eu
+- **capital follow-on** — EU-Startups, Tech.eu
+- **beyond vision** — EU-Startups, Tech.eu
+- **activecap shareholder** — EU-Startups, Tech.eu
+- **systems vehicles** — EU-Startups, Tech.eu
+- **expansion** — EU-Startups, Tech.eu
 
 ## Watchlist keyword hits
 
-### expansion (1)
-- [Ganiga secures €2.5M to expand its AI-powered food waste technology](https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/) — Tech.eu
-
-### Germany (3)
-- [NOVUS secures eight-figure funding to take its electric Lightbike from Germany to California](https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/) — Tech.eu
-- [German VCs call for €15B annual funding boost to build the next generation of tech giants](https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/) — Tech.eu
-- [OPINION: Europe needs more than just successful exits](https://www.eu-startups.com/2026/10/opinion-europe-needs-more-than-just-successful-exits/) — EU-Startups
+### expansion (2)
+- [Portuguese drone maker Beyond Vision raises over €28M to scale production and global expansion](https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/) — Tech.eu
+- [There’s no stopping Legora – €489 million for Stockholm’s LegalTech Unicorn](https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/) — EU-Startups
 
 ## All articles this window
 
 ### Tech.eu (20)
+- [Anglo-Finnish Oxford University quantum spinout QuantrolOx raises €12M](https://tech.eu/2026/10/22/anglo-finnish-oxford-university-quantum-spinout-raises-eur12m/)
+- [Cloud: Europe’s 6 most-funded companies in H1 2026](https://tech.eu/2026/10/22/cloud-europes-6-most-funded-companies-in-h1-2026/)
+- [Portuguese drone maker Beyond Vision raises over €28M to scale production and global expansion](https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/)
+- [Mistral boss and Yann LeCun back Swiss robotics startup Enact in $30M pre-seed round](https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/)
+- [Reduck secures $3M to make web automation faster for AI agents](https://tech.eu/2026/10/22/reduck-secures-3m-to-make-web-automation-faster-for-ai-agents/)
+- [RhymeQ emerges from stealth with $2.2M to simplify quantum programming](https://tech.eu/2026/10/22/rhymeq-emerges-from-stealth-with-22m-to-simplify-quantum-programming/)
+- [The FSE Group launches £70M+ London growth fund to back underserved scaleups](https://tech.eu/2026/10/22/the-fse-group-launches-ps70m-london-growth-fund-to-back-underserved-scaleups/)
+- [Barcelona's Masia closes €18M debut fund and opens new home for frontier tech founders](https://tech.eu/2026/10/22/barcelonas-masia-closes-eur18m-debut-fund-and-opens-new-home-for-frontier-tech-founders/)
+- [Legora’s valuation leaps to $8.8BN as raises $550M](https://tech.eu/2026/10/21/legoras-valuation-leaps-to-88bn-as-raises-550m/)
+- [Mika Games gets $10M boost to support mobile game developers](https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/)
 - [Opply raises $7.5M to expand its agentic AI platform for CPG brands](https://tech.eu/2026/10/21/opply-raises-75m-to-expand-its-agentic-ai-platform-for-cpg-brands/)
 - [Dutch photonics startup Photon Bridge raises €10M to tackle AI's looming laser bottleneck](https://tech.eu/2026/10/21/dutch-photonics-startup-photon-bridge-raises-eur10m-to-tackle-ais-looming-laser-bottleneck/)
 - [Go Eve secures £750K to advance its DockChain EV charging technology](https://tech.eu/2026/10/21/go-eve-secures-ps750k-to-advance-its-dockchain-ev-charging-technology/)
@@ -42,30 +48,27 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Jenz lands €540K four months after hackathon win to streamline retail operations](https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/)
 - [Daytona hits $1B valuation with $60M Series B for AI agent cloud](https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/)
 - [EIT launches €40M funding call to help bring university deep tech research to market](https://tech.eu/2026/10/20/eit-launches-eur40m-funding-call-to-help-bring-university-deep-tech-research-to-market/)
-- [Silent sailing, noisy generators: Hydrogen startups PowerUP and H2Boat tackle yachting's diesel problem](https://tech.eu/2026/10/20/silent-sailing-noisy-generators-hydrogen-startups-powerup-and-h2boat-tackle-yachting-s-diesel-problem/)
-- [Nvidia invests in four German startups as part of $10BN European investment pledge](https://tech.eu/2026/10/20/nvidia-invests-in-four-german-startups-as-part-of-10bn-european-investment-pledge/)
-- [Coherence Quantum raises €2.78M to tackle quantum computer scaling challenges](https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/)
-- [Blackwall hits $2.2B valuation with $100M Series C just weeks after joining Estonia's unicorn club](https://tech.eu/2026/10/20/blackwall-hits-2-2b-valuation-with-100m-series-c-just-weeks-after-joining-estonia-s-unicorn-club/)
-- [Ganiga secures €2.5M to expand its AI-powered food waste technology](https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/)
-- [Former Google DeepMind top researcher launches London “compute-efficient” AI company](https://tech.eu/2026/10/20/former-google-deepmind-top-researcher-launches-london-compute-efficient-ai-company/)
-- [Danish startup Plinto raises €2.9M to streamline financial controls](https://tech.eu/2026/10/20/danish-startup-plinto-raises-eur29m-to-streamline-financial-controls/)
-- [NOVUS secures eight-figure funding to take its electric Lightbike from Germany to California](https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/)
-- [German VCs call for €15B annual funding boost to build the next generation of tech giants](https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/)
-- [Linkener secures €7.5M to expand its energy management platform](https://tech.eu/2026/10/19/linkener-secures-eur75m-to-expand-its-energy-management-platform/)
 
 ### EU-Startups (10)
+- [Top 50: Journalists and PR pros in European Tech](https://www.eu-startups.com/2026/10/top-50-journalists-and-pr-pros-in-european-tech/)
+- [Spanish VC Seaya closes new fund at €600 million in just six months](https://www.eu-startups.com/2026/10/spanish-vc-seaya-closes-new-fund-at-e600-million-in-just-six-months/)
+- [The EU-Startups Podcast | How European BioTech is changing cancer care – Roundtable special](https://www.eu-startups.com/2026/10/the-eu-startups-podcast-how-european-biotech-is-changing-cancer-care-roundtable-special/)
+- [Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets](https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/)
+- [Is the UK leading Europe’s startup funding race? Yes, but there’s a catch](https://www.eu-startups.com/2026/10/is-the-uk-leading-europes-startup-funding-race-yes-but-theres-a-catch/)
+- [Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors](https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/)
+- [Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million](https://www.eu-startups.com/2026/10/backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-startup-enact-intelligence-exits-stealth-with-e26-68-million/)
+- [There’s no stopping Legora – €489 million for Stockholm’s LegalTech Unicorn](https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/)
 - [Fuse Energy bets on NVIDIA GPUs as it expands from energy supply into AI infrastructure](https://www.eu-startups.com/2026/10/fuse-energy-bets-on-nvidia-gpus-as-it-expands-from-energy-supply-into-ai-infrastructure/)
 - [Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom](https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/)
-- [Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence](https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/)
-- [FreightTech unicorn sennder targets €1 billion in annual revenue as C.H. Robinson integration completes](https://www.eu-startups.com/2026/10/freighttech-unicorn-sennder-targets-e1-billion-in-annual-revenue-as-c-h-robinson-integration-completes/)
-- [Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents](https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/)
-- [Former international boxer’s LegalTech startup EstateMin raises €1 million to scale in the US](https://www.eu-startups.com/2026/10/former-international-boxers-legaltech-startup-estatemin-raises-e1-million-to-scale-in-the-us/)
-- [Transport for biological material helps Cellbox raise a €5 million Series A](https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/)
-- [The cash cost of a 60-day customer (Sponsored)](https://www.eu-startups.com/2026/10/the-cash-cost-of-a-60-day-customer-sponsored/)
-- [EIF commits €20 million to Swedish VC BackingMinds to support underrepresented entrepreneurs](https://www.eu-startups.com/2026/10/eif-commits-e20-million-to-swedish-vc-backingminds-to-support-underrepresented-entrepreneurs/)
-- [OPINION: Europe needs more than just successful exits](https://www.eu-startups.com/2026/10/opinion-europe-needs-more-than-just-successful-exits/)
 
 ### Sifted (24)
+- [Ireland’s AI scene has buzz. Now it needs breakouts](https://sifted.eu/articles/irelands-ai-scene/)
+- [Sifted’s first Onstage Demo Day](https://sifted.eu/articles/sifteds-first-onstage-demo-day/)
+- [More startup ‘mafias’ are coming in Norway, predicts VC](https://sifted.eu/articles/norway-startup-mafia-vc-physical-ai-cognite/)
+- [Italian startups are growing up: bigger early-stage rounds and more late-stage money, data shows](https://sifted.eu/articles/italian-startups-are-growing-up/)
+- [Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed](https://sifted.eu/articles/yann-lecun-arthur-mensch-zurich-robotics-startup-30m-pre-seed/)
+- [Exclusive: Former H Company CTO seeks $30m for new startup](https://sifted.eu/articles/former-h-company-cto-seeks-30m-for-new-startup/)
+- [Legora raises fresh $550m at $8.8bn valuation](https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/)
 - [Should you get a personal AI assistant?](https://sifted.eu/articles/personal-ai-assistants/)
 - [Pigment raises $250m Series E led by Scaleup Europe Fund](https://sifted.eu/articles/pigment-series-e-nvidia-scaleup-europe-fund/)
 - [Can Europe and Canada build a tech alliance to rival the US?](https://sifted.eu/articles/eu-canada-mark-carney-tech-alliance-sovereignty/)
@@ -83,10 +86,3 @@ Window: last 7 days · 54 articles from 5/5 sources
 - [Are open-weight AI models safe?](https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/)
 - [The 'blurry' world of defence tech revenue](https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/)
 - [‘I’m 30. I’ve got one more shot’: Reson8’s founder wants to build a European AI giant](https://sifted.eu/articles/reson8-unicorn-interview/)
-- [Europe’s AI fintech market mapped: 94 startups automating the business of money](https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/)
-- [Exclusive: Accel set to lead DeepMind alum’s $60m round](https://sifted.eu/articles/accel-deepmind-researcher-60m/)
-- [Jensen Huang wants Europe to dream bigger — with Nvidia’s help](https://sifted.eu/articles/jensen-huang-london-2026/)
-- [Nvidia unveils investments in five more UK startups](https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/)
-- [Nick Clegg on Europe, AI and big tech](https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/)
-- [‘Customers are happier if we provide the full suite’: Why startups are embracing all-in-one finance platforms](https://sifted.eu/articles/startups-embracing-all-in-one-finance-platforms-brnd/)
-- [Exclusive: British Business Bank puts £180m into six AI funds, including Evantic and EF](https://sifted.eu/articles/british-business-bank-180m-vc-firms/)
