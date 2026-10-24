@@ -1,4 +1,4 @@
-# Trend digest — 2026-10-23
+# Trend digest — 2026-10-24
 
 Window: last 7 days · 34 articles from 4/5 sources
 
@@ -13,6 +13,8 @@ _None this window._
 ## All articles this window
 
 ### EU-Startups (10)
+- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 19 – Oct. 23)](https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-19-oct-23/)
+- [ICEYE strengthens Ukraine’s satellite communications ambitions while expanding wildfire monitoring capabilities](https://www.eu-startups.com/2026/10/iceye-strengthens-ukraines-satellite-communications-ambitions-while-expanding-wildfire-monitoring-capabilities/)
 - [Milan’s Phononic Vibes secures €25 million to expand noise control tech used by Deutsche Bahn and Mercedes-Benz](https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/)
 - [The European startups defending Ukraine in 2026, and the VCs funding them](https://www.eu-startups.com/2026/10/the-european-startups-defending-ukraine-in-2026-and-the-vcs-funding-them/)
 - [London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets](https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/)
@@ -21,8 +23,6 @@ _None this window._
 - [Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload and expand into Brazil](https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/)
 - [Top 50: Journalists and PR pros in European Tech](https://www.eu-startups.com/2026/10/top-50-journalists-and-pr-pros-in-european-tech/)
 - [What does the failure of the Clarity Act mean for cryptocurrencies? (Sponsored)](https://www.eu-startups.com/2026/10/what-does-the-failure-of-the-clarity-act-mean-for-cryptocurrencies-sponsored/)
-- [Unicorn NEURA Robotics reveals new robot along with a training facility for European robotics](https://www.eu-startups.com/2026/10/unicorn-neura-robotics-reveals-new-robot-along-with-a-training-facility-for-european-robotics/)
-- [Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety across cyber-physical systems](https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/)
 
 ### Sifted (24)
 - [Oslo tech struggles to break out of Stockholm's shadow](https://sifted.eu/articles/oslo-tech-problems-physical-ai-vc-growth-capital/)
