@@ -1,4 +1,4 @@
-# Trend digest — 2026-10-24
+# Trend digest — 2026-10-25
 
 Window: last 7 days · 34 articles from 4/5 sources
 
