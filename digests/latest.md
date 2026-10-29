@@ -1,46 +1,51 @@
-# Trend digest — 2026-10-28
+# Trend digest — 2026-10-29
 
 Window: last 7 days · 35 articles from 4/5 sources
 
 ⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed)
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **untapped asset** — Sifted, Sifted - CEE
-- **hype why** — Sifted, Sifted - CEE
-- **used-car industry** — Sifted, Sifted - CEE
-- **industry untapped** — Sifted, Sifted - CEE
-- **beyond hype** — Sifted, Sifted - CEE
 - **why used-car** — Sifted, Sifted - CEE
+- **industry untapped** — Sifted, Sifted - CEE
+- **hype why** — Sifted, Sifted - CEE
+- **untapped asset** — Sifted, Sifted - CEE
+- **used-car industry** — Sifted, Sifted - CEE
+- **beyond hype** — Sifted, Sifted - CEE
 
 ## Watchlist keyword hits
+
+### expansion (2)
+- [StrollMe bags €22 million to put more bikes, strollers and car seats into European homes](https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/) — EU-Startups
+- [German startups are betting big on Japan. Should the rest of Europe follow?](https://www.eu-startups.com/2026/10/german-startups-are-betting-big-on-japan-should-the-rest-of-europe-follow/) — EU-Startups
 
 ### compliance (1)
 - [“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech](https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/) — EU-Startups
 
-### Germany (1)
-- [As Merz visits Japan, energy startup Proxima Fusion moves to secure Germany’s place in the global fusion race](https://www.eu-startups.com/2026/10/as-merz-visits-japan-energy-startup-proxima-fusion-moves-to-secure-germanys-place-in-the-global-fusion-race/) — EU-Startups
-
-### Poland (1)
-- [Poland’s Autofixer raises €3 million in venture debt to scale its online car parts platform](https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/) — EU-Startups
-
-### expansion (1)
-- [Impress bags €40 million EIB financing to expand its digital orthodontics network across Europe](https://www.eu-startups.com/2026/10/impress-bags-e40-million-eib-financing-to-expand-its-digital-orthodontics-network-across-europe/) — EU-Startups
-
 ## All articles this window
 
 ### EU-Startups (10)
+- [French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations](https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/)
+- [StrollMe bags €22 million to put more bikes, strollers and car seats into European homes](https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/)
+- [The EU-Startups Podcast | Interview with Jack Mardack, co-founder of Oyster](https://www.eu-startups.com/2026/10/the-eu-startups-podcast-interview-with-jack-mardack-co-founder-of-oyster/)
+- [Pieterjan Bouten’s Entourage closes €100 million second fund after surpassing €75 million target in two weeks](https://www.eu-startups.com/2026/10/pieterjan-boutens-entourage-closes-e100-million-second-fund-after-surpassing-e75-million-target-in-two-weeks/)
+- [EXCLUSIVE: Freiburg’s VUSE XR raises €1.2 million to bring AI-powered mixed reality training to enterprises](https://www.eu-startups.com/2026/10/exclusive-freiburgs-vuse-xr-raises-e1-2-million-to-bring-ai-powered-mixed-reality-training-to-enterprises/)
+- [Auriga Partners reaches €80 million interim close for second fund dedicated to cybersecurity](https://www.eu-startups.com/2026/10/auriga-partners-reaches-e80-million-interim-close-for-second-fund-dedicated-to-cybersecurity/)
+- [Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity](https://www.eu-startups.com/2026/10/profitable-dutch-startup-braid-raises-e34-12-to-help-brands-launch-their-own-mobile-connectivity/)
+- [German startups are betting big on Japan. Should the rest of Europe follow?](https://www.eu-startups.com/2026/10/german-startups-are-betting-big-on-japan-should-the-rest-of-europe-follow/)
 - [“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech](https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/)
 - [OPINION: Scaling is the real test of Europe’s AI boom](https://www.eu-startups.com/2026/10/opinion-scaling-is-the-real-test-of-europes-ai-boom/)
-- [London’s AP Ventures closes €269.62 million third fund to back early-stage industrial and energy tech startups](https://www.eu-startups.com/2026/10/londons-ap-ventures-closes-e269-million-third-fund-to-back-early-stage-industrial-and-energy-tech-startups/)
-- [As Merz visits Japan, energy startup Proxima Fusion moves to secure Germany’s place in the global fusion race](https://www.eu-startups.com/2026/10/as-merz-visits-japan-energy-startup-proxima-fusion-moves-to-secure-germanys-place-in-the-global-fusion-race/)
-- [Poland’s Autofixer raises €3 million in venture debt to scale its online car parts platform](https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/)
-- [Barcelona’s Artiso raises over €3 million to scale its AI operating system for fashion teams](https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/)
-- [Danish BioTech Samplix secures €25 million in first close of financing round to scale antibody discovery](https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/)
-- [London’s Querio launches with €4.48 million to help companies tackle conflicting answers across AI tools](https://www.eu-startups.com/2026/10/londons-querio-launches-with-e4-48-million-to-help-companies-and-their-data-teams-tackle-conflicting-answers-across-ai-tools/)
-- [Impress bags €40 million EIB financing to expand its digital orthodontics network across Europe](https://www.eu-startups.com/2026/10/impress-bags-e40-million-eib-financing-to-expand-its-digital-orthodontics-network-across-europe/)
-- [French VC Aquiti closes €60 million fund for founders outside of traditional venture hubs](https://www.eu-startups.com/2026/10/french-vc-aquiti-just-closed-their-e60-million-fund-for-founders-outside-of-traditional-venture-hubs/)
 
 ### Sifted (24)
+- [Exclusive: Fractile raises £540m in new Series C funding, filings show](https://sifted.eu/articles/exclusive-fractile-series-c/)
+- [Are Europe's fastest-growing startups hiring wrong?](https://sifted.eu/articles/are-europes-fastest-growing-startups-hiring-wrong-brnd/)
+- [Exclusive: Deeptech startup MuRay raises €7.1m to see inside rocket engines](https://sifted.eu/articles/exclusive-deeptech-startup-muray-raises-e7-1m-to-see-inside-rocket-engines/)
+- [The French robotics startup promising to deploy industrial humanoids after just 20 minutes of training](https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training/)
+- [How to build an investment thesis and win early-stage deals, according to VCs](https://sifted.eu/articles/how-to-build-an-investment-thesis-and-win-early-stage-deals-according-to-vcs/)
+- [Norway's Investinor out raising new LP fund amid European push to fund scaleups](https://sifted.eu/articles/norway-investinor-raising-new-lp-fund-nordics-europe-scaleup/)
+- [This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation](https://sifted.eu/articles/spiko-interview/)
+- [How to outcompete the ‘warp speed’ AI labs on hiring](https://sifted.eu/articles/how-to-outcompete-ai-labs/)
+- [The executive talent market is divided in two](https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/)
+- [UK Budget: Capital gains, work visas and young entrepreneur allowances](https://sifted.eu/articles/uk-autumn-budget-2026-startups/)
 - [Why the smartest AI models still need human context](https://sifted.eu/articles/why-the-smartest-ai-models-still-need-human-context-brnd/)
 - [How to expand into new markets](https://sifted.eu/articles/how-to-expand-into-new-markets/)
 - [Who has the best LinkedIn photo in European tech?](https://sifted.eu/articles/best-linkedin-photo-in-european-tech/)
@@ -55,16 +60,6 @@ Window: last 7 days · 35 articles from 4/5 sources
 - [New funds in Europe in Q3 2026](https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/)
 - [Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?](https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/)
 - [EQT Ventures and QuantumLight back wealthtech platform Nevis in $70m raise](https://sifted.eu/articles/revolut-alumni-nevis-wealth-tech-management-funding-round/)
-- [Revolut CEO slams ‘dangerous’ VCs, says he removed them from board](https://sifted.eu/articles/revolut-ceo-slams-dangerous-vcs/)
-- [Evertrace acquires Veck to strengthen early founder detection](https://sifted.eu/articles/evertrace-acquires-veck-brnd/)
-- [AI takes the easy decisions; leaders must get comfortable with the hard ones](https://sifted.eu/articles/ai-takes-the-easy-decisions-leaders-brnd/)
-- [Strawberry's Charles Maddock on lessons from Anton Osika, US ambitions – and how Legora’s Junestrand helped land GC](https://sifted.eu/articles/strawberrys-charles-maddock-lessons-anton-osika-legoras-junestrand-general-catalyst/)
-- [Sovereignty comes to pan-European spinout event Stage Two](https://sifted.eu/articles/sovereignty-comes-to-pan-european-spinout-event-stage-two/)
-- [Exclusive: Heartcore Capital leads $17m raise for AI agent startup Nous](https://sifted.eu/articles/nous-ai-agent-funding-round-monzo-tom-blomfield/)
-- [Follow Jensen’s money not his mouth](https://sifted.eu/articles/follow-jensens-money-not-his-mouth/)
-- [Exclusive: General Catalyst-backed Strawberry launches first full product, 'the European alternative' to US agents](https://sifted.eu/articles/strawberry-browser-1-0/)
-- [Scaleup capital drives a fifth straight quarter of growth, as Paris and Munich outstrip London](https://sifted.eu/articles/europe-third-consecutive-record-quarter-paris-munich-outstrip-london/)
-- [Alex Depledge departs UK treasury job, criticising 'sideshow' treatment of scaleups](https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/)
 
 ### Sifted - CEE (1)
 - [Beyond the EV hype: Why the used-car industry is Europe’s untapped asset](https://sifted.eu/articles/the-used-car-industry-is-europes-untapped-asset-brnd/)
