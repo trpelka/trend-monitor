@@ -1,4 +1,4 @@
-# Trend digest — 2026-10-30
+# Trend digest — 2026-10-31
 
 Window: last 7 days · 35 articles from 4/5 sources
 
@@ -18,18 +18,19 @@ _None this window._
 ## All articles this window
 
 ### EU-Startups (10)
+- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 26– Oct. 30)](https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-26-oct-30/)
+- [The Netherlands risks losing its AgriTech crown, warns new report](https://www.eu-startups.com/2026/10/the-netherlands-risks-losing-its-agritech-crown-warns-new-report/)
 - [Madrid’s Talky raises €1.5 million to teach AI the unwritten rules of accounting](https://www.eu-startups.com/2026/10/madrids-talky-raises-e1-5-million-to-teach-ai-the-unwritten-rules-of-accounting/)
 - [PaperFoam secures €2 million loan to scale sustainable packaging made from starch and natural fibres](https://www.eu-startups.com/2026/10/paperfoam-secures-e2-million-loan-to-scale-sustainable-packaging-made-from-starch-and-natural-fibres/)
 - [European SpaceTech recieves a €560 million injection to promote European sovereignty](https://www.eu-startups.com/2026/10/european-spacetech-recieves-a-e560-million-injection-to-promote-european-space-sovereignty/)
 - [Berlin’s Greentech Alliance to acquire Intermobility to connect mobility startups with investors and cities](https://www.eu-startups.com/2026/10/berlins-greentech-alliance-to-acquire-intermobility-to-connect-mobility-startups-with-investors-and-cities/)
 - [OPINION: You can’t scale with a startup mindset](https://www.eu-startups.com/2026/10/opinion-you-cant-scale-with-a-startup-mindset/)
 - [London’s Easol secures €26.78 million Series A extension as it launches AI agents for experience businesses](https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/)
-- [EXCLUSIVE: London’s Ares Intelligence raises €2.6 million to turn employee insights into AI adoption plans](https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/)
+- [EXCLUSIVE: London’s Ares Intelligence raises €2.9 million to turn employee insights into AI adoption plans](https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/)
 - [Tool that identifies AI-generated material helps Pixel Systems raise €2.7 million](https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/)
-- [OPINION: Your product is no longer a competitive advantage](https://www.eu-startups.com/2026/10/opinion-your-product-is-no-longer-a-competitive-advantage/)
-- [French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations](https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/)
 
 ### Sifted (24)
+- [South Korea is betting on startups to secure its future on the global stage](https://sifted.eu/articles/south-korea-is-betting-on-startups-brnd/)
 - [Ex-EQT investor Doreen Huber joins Interface Capital with eye for cyber deals amid ‘extremely scary’ AI agent boom](https://sifted.eu/articles/eqt-doreen-huber-interface-capital-cyber-startups-scary-ai-agents/)
 - [Talent tops European AI startups’ concerns as funding pressures mount](https://sifted.eu/articles/talent-tops-european-ai-startups-concerns-as-funding-pressures-mount/)
 - [Is France’s startup nation falling out of love with Macron?](https://sifted.eu/articles/is-frances-startup-nation-falling-out-of-love-with-macron/)
@@ -53,7 +54,6 @@ _None this window._
 - [Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation](https://sifted.eu/articles/lovable-employee-share-sale/)
 - [How to fund your robotics company: not another fundraise](https://sifted.eu/articles/how-to-fund-your-robotics-company/)
 - [Revolut faces Bank of England scrutiny over  product approval process, reports say](https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/)
-- [Are VCs as ‘dangerous’ as Nik Storonsky thinks they are?](https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/)
 
 ### Sifted - CEE (1)
 - [Beyond the EV hype: Why the used-car industry is Europe’s untapped asset](https://sifted.eu/articles/the-used-car-industry-is-europes-untapped-asset-brnd/)
