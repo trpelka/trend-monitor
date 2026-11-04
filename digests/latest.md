@@ -1,34 +1,38 @@
-# Trend digest — 2026-11-03
+# Trend digest — 2026-11-04
 
 Window: last 7 days · 34 articles from 4/5 sources
 
 ⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed)
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-- **debut fund** — EU-Startups, Sifted
-- **fund back** — EU-Startups, Sifted
+_None this window._
 
 ## Watchlist keyword hits
 
-### expansion (2)
-- [10 European bootstrapped startups who are crushing it in 2026](https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/) — EU-Startups
-- [Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste](https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/) — EU-Startups
+### CEE (1)
+- [Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce back from bankruptcy and expand into the Americas](https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/) — EU-Startups
 
 ## All articles this window
 
 ### EU-Startups (10)
-- [10 European bootstrapped startups who are crushing it in 2026](https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/)
-- [Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste](https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/)
-- [Evertrue Capital raises €15 million debut fund backed by British Business Bank and Phoenix Court](https://www.eu-startups.com/2026/11/4-evertrue-capital-raises-e15-million-debut-fund-backed-by-british-business-bank-and-phoenix-court/)
-- [FreightTech startup Conlio secures €6.4 million to expand AI-powered financial automation across Europe](https://www.eu-startups.com/2026/11/freighttech-startup-conlio-secures-e6-4-million-to-expand-ai-powered-financial-automation-across-europe/)
-- [OPINION: Healthcare’s pilot culture is holding back HealthTech innovation](https://www.eu-startups.com/2026/11/opinion-healthcares-pilot-culture-is-holding-back-healthtech-innovation/)
-- [Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions](https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/)
-- [Solo VC Robin Capital closes €15 million second fund to back AI, robotics and space startups](https://www.eu-startups.com/2026/11/solo-vc-robin-capital-closes-e15-million-second-fund-to-back-ai-robotics-and-space-startups/)
-- [Is Mistral overlooking Europe? 10 homegrown startups that could join its connector ecosystem](https://www.eu-startups.com/2026/11/is-mistral-overlooking-europe-10-homegrown-startups-that-could-join-its-connector-ecosystem/)
-- [Looking for a job? Estonia’s Roleo just raised €2.9 million to help you on your journey](https://www.eu-startups.com/2026/11/looking-for-a-job-estonias-roleo-just-raised-e2-9-million-to-help-you-on-your-journey/)
-- [Swedish VC Creandum closes €668 million CVIII fund – its largest to date](https://www.eu-startups.com/2026/11/swedish-vc-creandum-closes-e668-million-cviii-fund-its-largest-to-date/)
+- [Exclusive: Top 10 largest investments by EIC in 2026 – so far](https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/)
+- [Women TechEU Allies: supporting women-led DeepTech startups across Europe](https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/)
+- [OPINION: Ireland is losing Irish companies because they can’t scale here](https://www.eu-startups.com/2026/11/opinion-ireland-is-losing-irish-companies-because-they-cant-scale-here/)
+- [Copenhagen’s Biograil raises €20 million for oral drug delivery device designed as an alternative to injections](https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/)
+- [STATION F unveils 2026 Future 40 as its startups raise a record €2 billion](https://www.eu-startups.com/2026/11/station-f-unveils-2026-future-40-as-its-startups-raise-a-record-e2-billion/)
+- [Glovo’s €461 million startup multiplier effect showcased at annual Startup Campus](https://www.eu-startups.com/2026/11/glovos-e461-million-startup-multiplier-effect-showcased-at-annual-startup-campus/)
+- [Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce back from bankruptcy and expand into the Americas](https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/)
+- [Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension](https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/)
+- [Manchester-based Crediflow AI secures €1.8 million to automate commercial loan processing](https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/)
+- [Tallia raises €4 million to bring AI-powered research and review to tax firms](https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/)
 
 ### Sifted (24)
+- [Sequoia to close London office, cut Europe team](https://sifted.eu/articles/sequoia-closes-london-office/)
+- [Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)](https://sifted.eu/articles/job-applicants-be-ai-pilled/)
+- [Founders make terrible employees — here’s why every startup should hire them](https://sifted.eu/articles/founders-make-terrible-employees/)
+- [Deeptech VCs are still too risk-averse with spinouts, and it’s costing them, say Europe’s leading spinout investors](https://sifted.eu/articles/what-spinout-investors-know-that-most-deeptech-vcs-dont/)
+- [Ex-Hummingbird investor plots new VC firm, sources say](https://sifted.eu/articles/ex-hummingbird-new-vc-firm/)
+- [Can tech media survive the rise of AI and influencers?](https://sifted.eu/articles/tech-media-future-etn-20vc-sifted-summit/)
 - [Lovable apps expose sensitive user data, researchers find](https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/)
 - [Professor James Whittington and Dr Ruairidh Battleday unveil breakthrough from stealth frontier AI lab](https://sifted.eu/articles/breakthrough-from-stealth-frontier-ai-lab-brnd/)
 - [Ex-LocalGlobe partner closes $17m debut fund](https://sifted.eu/articles/evertrue-capital-closes-17m-debut-fund/)
@@ -47,9 +51,3 @@ Window: last 7 days · 34 articles from 4/5 sources
 - [Is France’s startup nation falling out of love with Macron?](https://sifted.eu/articles/is-frances-startup-nation-falling-out-of-love-with-macron/)
 - [Why Creandum and USV co-led a $40m seed into Machenta, a robotics lab with no product](https://sifted.eu/articles/creandum-usv-40m-seed-uk-robotics-lab-no-product/)
 - [Bots bouncers: the startups deciding what AI agents can do](https://sifted.eu/articles/the-european-startups-making-agents-secure/)
-- [‘There’s no magic money tree’: Alex Depledge on the Budget, startup lobbying and why she left the UK government](https://sifted.eu/articles/uk-budget-alex-depledge-advisor-startups/)
-- [Exclusive: Fractile raises £540m in new Series C funding, filings show](https://sifted.eu/articles/exclusive-fractile-series-c/)
-- [Are Europe's fastest-growing startups hiring wrong?](https://sifted.eu/articles/are-europes-fastest-growing-startups-hiring-wrong-brnd/)
-- [Exclusive: Deeptech startup MuRay raises €7.1m to see inside rocket engines](https://sifted.eu/articles/exclusive-deeptech-startup-muray-raises-e7-1m-to-see-inside-rocket-engines/)
-- [The French robotics startup promising to deploy industrial humanoids after just 20 minutes of training](https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training/)
-- [How to build an investment thesis and win early-stage deals, according to VCs](https://sifted.eu/articles/how-to-build-an-investment-thesis-and-win-early-stage-deals-according-to-vcs/)
