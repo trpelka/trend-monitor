@@ -1,32 +1,44 @@
-# Trend digest — 2026-11-04
+# Trend digest — 2026-11-05
 
 Window: last 7 days · 34 articles from 4/5 sources
 
 ⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed)
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
-_None this window._
+- **london office** — EU-Startups, Sifted
 
 ## Watchlist keyword hits
 
-### CEE (1)
-- [Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce back from bankruptcy and expand into the Americas](https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/) — EU-Startups
+### Germany (2)
+- [Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality](https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/) — EU-Startups
+- [Return secures €835 million financing to expand battery storage capacity in Germany](https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/) — EU-Startups
+
+### DACH (1)
+- [“AI pays off when we redesign the process, not just automate it”: Opus’ DACH lead Xenia Schmahl (Sponsored)](https://www.eu-startups.com/2026/11/ai-pays-off-when-we-redesign-the-process-not-just-automate-it-opus-dach-lead-xenia-schmahl-sponsored/) — EU-Startups
+
+### expansion (1)
+- [Return secures €835 million financing to expand battery storage capacity in Germany](https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/) — EU-Startups
 
 ## All articles this window
 
 ### EU-Startups (10)
-- [Exclusive: Top 10 largest investments by EIC in 2026 – so far](https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/)
-- [Women TechEU Allies: supporting women-led DeepTech startups across Europe](https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/)
-- [OPINION: Ireland is losing Irish companies because they can’t scale here](https://www.eu-startups.com/2026/11/opinion-ireland-is-losing-irish-companies-because-they-cant-scale-here/)
-- [Copenhagen’s Biograil raises €20 million for oral drug delivery device designed as an alternative to injections](https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/)
-- [STATION F unveils 2026 Future 40 as its startups raise a record €2 billion](https://www.eu-startups.com/2026/11/station-f-unveils-2026-future-40-as-its-startups-raise-a-record-e2-billion/)
-- [Glovo’s €461 million startup multiplier effect showcased at annual Startup Campus](https://www.eu-startups.com/2026/11/glovos-e461-million-startup-multiplier-effect-showcased-at-annual-startup-campus/)
-- [Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce back from bankruptcy and expand into the Americas](https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/)
-- [Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension](https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/)
-- [Manchester-based Crediflow AI secures €1.8 million to automate commercial loan processing](https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/)
-- [Tallia raises €4 million to bring AI-powered research and review to tax firms](https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/)
+- [Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality](https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/)
+- [Stockholm’s Green Voltis raises €13.5 million to operate and trade battery storage across European power markets using AI](https://www.eu-startups.com/2026/11/stockholms-green-voltis-raises-e13-5-million-to-operate-and-trade-battery-storage-across-european-power-markets-using-ai/)
+- [Top 50: Women business angels shaping European Tech](https://www.eu-startups.com/2026/11/top-50-women-business-angels-shaping-european-tech/)
+- [“AI pays off when we redesign the process, not just automate it”: Opus’ DACH lead Xenia Schmahl (Sponsored)](https://www.eu-startups.com/2026/11/ai-pays-off-when-we-redesign-the-process-not-just-automate-it-opus-dach-lead-xenia-schmahl-sponsored/)
+- [The EU-Startups Podcast | Interview with Károly Ludvigh, CEO and co-founder of ABZ Innovation](https://www.eu-startups.com/2026/11/the-eu-startups-podcast-interview-with-karoly-ludvigh-ceo-and-co-founder-of-abz-innovation/)
+- [Barcelona’s Kabilio raises €10 million to deploy its AI accounting agent as client base nears 500 firms](https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/)
+- [Sequoia Capital raises around €8.9 billion in new funds and closes London office; most local partners opt to stay in Europe](https://www.eu-startups.com/2026/11/sequoia-capital-raises-around-e8-9-billion-in-new-funds-and-closes-london-office-most-local-partners-opt-to-stay-in-europe/)
+- [Oxford’s FluoRok raises €26.64 million to scale fluorochemical production without hazardous hydrogen fluoride](https://www.eu-startups.com/2026/11/oxfords-fluorok-raises-e26-64-million-to-scale-fluorochemical-production-without-the-hazardous-hydrogen-fluoride/)
+- [Tired of Roku and the like? Spain’s Titan OS just raised €40 million to provide you with an alternative.](https://www.eu-startups.com/2026/11/tired-of-roku-and-the-like-spains-titan-os-just-raised-e40-million-to-provide-you-with-an-alternative/)
+- [Return secures €835 million financing to expand battery storage capacity in Germany](https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/)
 
 ### Sifted (24)
+- [Inside the race to build European hardware without China](https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/)
+- [Early Revolut employees emerge from stealth with AI wealthtech Haido](https://sifted.eu/articles/haido-emerges-from-stealth/)
+- [Exclusive: Helsing CEO backs AI learning startup Mindmax in £2.5m raise](https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/)
+- [The future of engineering: fewer people, more work, and the end of tokenmaxxing](https://sifted.eu/articles/the-future-of-engineering-2026/)
+- [Starling Bank CEO to step down after just two years, reports say](https://sifted.eu/articles/starling-bank-ceo-raman-bhatia-quits-reports/)
 - [Sequoia to close London office, cut Europe team](https://sifted.eu/articles/sequoia-closes-london-office/)
 - [Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)](https://sifted.eu/articles/job-applicants-be-ai-pilled/)
 - [Founders make terrible employees — here’s why every startup should hire them](https://sifted.eu/articles/founders-make-terrible-employees/)
@@ -46,8 +58,3 @@ _None this window._
 - [London is the 'best place in the world to launch an AI company'](https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/)
 - [AI has changed how we work. So why does the office look exactly the same?](https://sifted.eu/articles/the-future-office-ai/)
 - [South Korea is betting on startups to secure its future on the global stage](https://sifted.eu/articles/south-korea-is-betting-on-startups-brnd/)
-- [Ex-EQT investor Doreen Huber joins Interface Capital with eye for cyber deals amid ‘extremely scary’ AI agent boom](https://sifted.eu/articles/eqt-doreen-huber-interface-capital-cyber-startups-scary-ai-agents/)
-- [Talent tops European AI startups’ concerns as funding pressures mount](https://sifted.eu/articles/talent-tops-european-ai-startups-concerns-as-funding-pressures-mount/)
-- [Is France’s startup nation falling out of love with Macron?](https://sifted.eu/articles/is-frances-startup-nation-falling-out-of-love-with-macron/)
-- [Why Creandum and USV co-led a $40m seed into Machenta, a robotics lab with no product](https://sifted.eu/articles/creandum-usv-40m-seed-uk-robotics-lab-no-product/)
-- [Bots bouncers: the startups deciding what AI agents can do](https://sifted.eu/articles/the-european-startups-making-agents-secure/)
