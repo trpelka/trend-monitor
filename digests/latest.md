@@ -1,16 +1,30 @@
-# Trend digest — 2026-11-06
+# Trend digest — 2026-11-07
 
-Window: last 7 days · 24 articles from 3/5 sources
+Window: last 7 days · 34 articles from 4/5 sources
 
-⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed), EU-Startups (couldn't parse feed)
+⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed)
 
 ## Cross-source repeats (2+ different sources — likely a real signal)
 _None this window._
 
 ## Watchlist keyword hits
-_None this window._
+
+### Germany (1)
+- [Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality](https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/) — EU-Startups
 
 ## All articles this window
+
+### EU-Startups (10)
+- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov. 02– Nov. 06)](https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/)
+- [DefenceTech unicorn TEKEVER strengthens Nordic ambitions amid €520 million funding round](https://www.eu-startups.com/2026/11/defencetech-unicorn-tekever-strengthens-nordic-ambitions-amid-e520-million-funding-round/)
+- [AutoStore to acquire Dutch warehouse and horticulture automation firm Logiqs for up to €30 million](https://www.eu-startups.com/2026/11/autostore-to-acquire-dutch-warehouse-and-horticulture-automation-firm-logiqs-for-up-to-e30-million/)
+- [OPINION: Europe’s quantum startups need more than research funding](https://www.eu-startups.com/2026/11/opinion-europes-quantum-startups-need-more-than-research-funding/)
+- [With a new equity round in sight, Candi Solar secures €44 million for solar projects in India](https://www.eu-startups.com/2026/11/with-a-new-equity-round-in-sight-candi-solar-secures-e44-million-for-solar-projects-in-india/)
+- [Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home](https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/)
+- [Oxford spin-out Alethio Therapeutics raises €80.46 million Series A to advance targeted blood cancer therapies](https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/)
+- [Helsinki’s Vensum Power secures €9 million to scale its software-defined power conversion platform](https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/)
+- [The EIC confirms €1.8 billion for startups in 2027, with expanded defence and women-led startup support](https://www.eu-startups.com/2026/11/the-eic-confirms-e1-8-billion-for-startups-and-deeptech-in-2027-with-expanded-defence-and-women-led-startup-support/)
+- [Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality](https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/)
 
 ### Sifted (24)
 - [Sequoia is leaving London. Should Europe be worried?](https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/)
