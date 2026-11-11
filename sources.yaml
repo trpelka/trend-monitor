@@ -1,10 +1,13 @@
 # Sources to monitor and keywords to watch for.
-# Edit freely — add/remove feeds and watchlist terms without touching monitor.py.
+# Edit freely - add/remove feeds and watchlist terms without touching monitor.py.
 #
-# Feeds verified as of Sep 2026: Tech.eu, EU-Startups, TechCrunch Europe.
-# Sifted / AIN Capital / Vestbee feed URLs are best-effort guesses — the script
-# tolerates broken feeds gracefully (logs a warning, skips it, keeps going),
-# so add more feeds freely and just check the digest for "failed to load" notes.
+# Feed URLs verified on 11 Nov 2026. AIN Capital and Vestbee are not listed:
+# their feed endpoints return 403/301 to automated clients, so they would only
+# add a permanent "failed to load" line to every digest.
+#
+# Do not add the same publication twice under two names (for example a main
+# and a regional Sifted feed). They return the same articles, and monitor.py
+# de-duplicates by link, so the second feed adds nothing but noise.
 
 watchlist:
   - Poland
@@ -33,5 +36,3 @@ feeds:
     url: "https://techcrunch.com/tag/europe/feed/"
   - name: "Sifted"
     url: "https://sifted.eu/feed/"
-  - name: "Sifted - CEE"
-    url: "https://sifted.eu/countries/central-and-eastern-europe/feed/"
