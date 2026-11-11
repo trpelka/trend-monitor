@@ -1,10 +1,12 @@
-# Trend digest — 2026-11-10
+# Trend digest - 2026-11-11
 
-Window: last 7 days · 25 articles from 3/5 sources
+Window: last 7 days - 25 articles from 2/4 feeds
 
-⚠️ Feeds that failed to load: Tech.eu (couldn't parse feed), EU-Startups (couldn't parse feed)
+Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
 
-## Cross-source repeats (2+ different sources — likely a real signal)
+Note: 24/25 articles come from Sifted. A single-source window cannot produce a real cross-source trend.
+
+## Cross-source repeats (2+ different sources)
 _None this window._
 
 ## Watchlist keyword hits
@@ -12,10 +14,14 @@ _None this window._
 
 ## All articles this window
 
-### TechCrunch Europe (1)
-- [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
-
 ### Sifted (24)
+- [Jobs of the future: Creator in residence](https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/)
+- [What it takes to build a globally competitive deeptech business in Europe](https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/)
+- [Who could replace Palantir in the NHS?](https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/)
+- [Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI](https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/)
+- [Europe’s chips startups mapped: 113 companies building the hardware behind AI](https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/)
+- [Why Europe’s AI founders are opening accounting and law firms](https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/)
+- [Mistral pushes back on new AI copyright proposals, sparking outcry from creatives](https://sifted.eu/articles/mistral-copyright-law-proposal/)
 - [Jensen Huang pulls out of ElevenLabs Summit amid controversy](https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/)
 - [Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural](https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/)
 - [AI accounting startup Sumary raises $25m seed](https://sifted.eu/articles/sumary-seed-fundraise/)
@@ -33,10 +39,6 @@ _None this window._
 - [The 12 startups most in demand from Onstage's W26 cohort](https://sifted.eu/articles/onstage-w26-cohort/)
 - [Inside the race to build European hardware without China](https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/)
 - [Early Revolut employees emerge from stealth with AI wealthtech Haido](https://sifted.eu/articles/haido-emerges-from-stealth/)
-- [Exclusive: Helsing CEO backs AI learning startup Mindmax in £2.5m raise](https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/)
-- [The future of engineering: fewer people, more work, and the end of tokenmaxxing](https://sifted.eu/articles/the-future-of-engineering-2026/)
-- [Starling Bank CEO to step down after just two years, reports say](https://sifted.eu/articles/starling-bank-ceo-raman-bhatia-quits-reports/)
-- [Sequoia to close London office, cut Europe team](https://sifted.eu/articles/sequoia-closes-london-office/)
-- [Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)](https://sifted.eu/articles/job-applicants-be-ai-pilled/)
-- [Founders make terrible employees — here’s why every startup should hire them](https://sifted.eu/articles/founders-make-terrible-employees/)
-- [Deeptech VCs are still too risk-averse with spinouts, and it’s costing them, say Europe’s leading spinout investors](https://sifted.eu/articles/what-spinout-investors-know-that-most-deeptech-vcs-dont/)
+
+### TechCrunch Europe (1)
+- [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
