@@ -15,6 +15,8 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Exclusive: Nvidia and Unity join Emulate’s $700m fundraise](https://sifted.eu/articles/exclusive-unity-nvidia-emulate/)
+- [UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off](https://sifted.eu/articles/nscale-ipo-nvidia-delay/)
 - [Jobs of the future: Creator in residence](https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/)
 - [What it takes to build a globally competitive deeptech business in Europe](https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/)
 - [Who could replace Palantir in the NHS?](https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/)
@@ -37,8 +39,6 @@ _None this window._
 - [What Sequoia’s London exit means for Europe](https://sifted.eu/articles/what-sequoia-london-exit-means-europe/)
 - [European startups are using rollup strategies for defence. Some VCs are sceptical](https://sifted.eu/articles/european-startups-defence-rollups-vc-sceptical/)
 - [The 12 startups most in demand from Onstage's W26 cohort](https://sifted.eu/articles/onstage-w26-cohort/)
-- [Inside the race to build European hardware without China](https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/)
-- [Early Revolut employees emerge from stealth with AI wealthtech Haido](https://sifted.eu/articles/haido-emerges-from-stealth/)
 
 ### TechCrunch Europe (1)
 - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
