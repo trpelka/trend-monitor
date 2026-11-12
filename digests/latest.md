@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-11
+# Trend digest - 2026-11-12
 
 Window: last 7 days - 25 articles from 2/4 feeds
 
@@ -10,11 +10,23 @@ Note: 24/25 articles come from Sifted. A single-source window cannot produce a r
 _None this window._
 
 ## Watchlist keyword hits
-_None this window._
+
+### procurement (1)
+- [How AI is changing procurement and supply chains](https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/) - Sifted
 
 ## All articles this window
 
 ### Sifted (24)
+- [Why is Northzone betting on scouts as Sequoia walks away?](https://sifted.eu/articles/sifted-podcast-northzone-northstars/)
+- [Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund](https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/)
+- [SoftBank leads $500m round for Agile Robots](https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/)
+- [Accel leads $30m Series A for spatial AI defence startup SE3](https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/)
+- [How AI is changing procurement and supply chains](https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/)
+- [15 German startups to watch in 2026, according to VCs](https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/)
+- [Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’](https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/)
+- [European chips funding almost quadruples as investors back Nvidia’s inference challengers](https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/)
+- [Six European scientists building startups in stealth](https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/)
+- [Fractile confirms £540m raise first revealed by Sifted](https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/)
 - [Exclusive: Nvidia and Unity join Emulate’s $700m fundraise](https://sifted.eu/articles/exclusive-unity-nvidia-emulate/)
 - [UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off](https://sifted.eu/articles/nscale-ipo-nvidia-delay/)
 - [Jobs of the future: Creator in residence](https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/)
@@ -29,16 +41,6 @@ _None this window._
 - [AI accounting startup Sumary raises $25m seed](https://sifted.eu/articles/sumary-seed-fundraise/)
 - [Gabriel Attal: the French presidential candidate wooing the tech world](https://sifted.eu/articles/gabriel-attal-presidential-candidate-french-tech/)
 - [10 private markets startups to watch, according to VCs](https://sifted.eu/articles/private-markets-startups-to-watch/)
-- [Monzo in talks to raise up to £500m, reports say](https://sifted.eu/articles/monzo-to-raise-up-to-500m/)
-- [Onodrim raises $300m as European defence rollups heat up](https://sifted.eu/articles/onodrim-300-european-defence-rollup/)
-- [The realities of scaling AI agents: ‘You don't have an AI problem, you have a content problem’](https://sifted.eu/articles/the-realities-of-scaling-ai-agents-brnd/)
-- [The winners and losers of Europe's fintech growth funding drought](https://sifted.eu/articles/fintech-growth-drought/)
-- [SF confidence, reality checks and AI bubble anxiety come to the Rise venture salon in the Alps](https://sifted.eu/articles/sf-confidence-reality-checks-and-ai-bubble-anxiety-come-to-the-rise-venture-salon-in-the-alps/)
-- [UCL spinouts looking to raise](https://sifted.eu/articles/ucl-spinouts-looking-to-raise/)
-- [Sequoia is leaving London. Should Europe be worried?](https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/)
-- [What Sequoia’s London exit means for Europe](https://sifted.eu/articles/what-sequoia-london-exit-means-europe/)
-- [European startups are using rollup strategies for defence. Some VCs are sceptical](https://sifted.eu/articles/european-startups-defence-rollups-vc-sceptical/)
-- [The 12 startups most in demand from Onstage's W26 cohort](https://sifted.eu/articles/onstage-w26-cohort/)
 
 ### TechCrunch Europe (1)
 - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
