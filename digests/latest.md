@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-12
+# Trend digest - 2026-11-13
 
 Window: last 7 days - 25 articles from 2/4 feeds
 
@@ -17,6 +17,9 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Inside Samsung’s year of European deal making](https://sifted.eu/articles/samsung-european-tech/)
+- [Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers](https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/)
+- [Jensen Huang’s Nvidia exit shakes European tech](https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/)
 - [Why is Northzone betting on scouts as Sequoia walks away?](https://sifted.eu/articles/sifted-podcast-northzone-northstars/)
 - [Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund](https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/)
 - [SoftBank leads $500m round for Agile Robots](https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/)
@@ -38,9 +41,6 @@ _None this window._
 - [Mistral pushes back on new AI copyright proposals, sparking outcry from creatives](https://sifted.eu/articles/mistral-copyright-law-proposal/)
 - [Jensen Huang pulls out of ElevenLabs Summit amid controversy](https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/)
 - [Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural](https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/)
-- [AI accounting startup Sumary raises $25m seed](https://sifted.eu/articles/sumary-seed-fundraise/)
-- [Gabriel Attal: the French presidential candidate wooing the tech world](https://sifted.eu/articles/gabriel-attal-presidential-candidate-french-tech/)
-- [10 private markets startups to watch, according to VCs](https://sifted.eu/articles/private-markets-startups-to-watch/)
 
 ### TechCrunch Europe (1)
 - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
