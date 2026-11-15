@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-14
+# Trend digest - 2026-11-15
 
 Window: last 7 days - 25 articles from 2/4 feeds
 
