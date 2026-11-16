@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-15
+# Trend digest - 2026-11-16
 
 Window: last 7 days - 25 articles from 2/4 feeds
 
@@ -17,6 +17,13 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Starling Bank CEO to step down at the end of the year](https://sifted.eu/articles/starling-ceo-to-step-down/)
+- [Plural raises fresh €1bn fund to back ‘non-obvious companies’](https://sifted.eu/articles/plural-new-fund-e1bn/)
+- [Why a ban on non-competes could hurt startups](https://sifted.eu/articles/uk-non-compete-rules-change-against/)
+- [Einstein’s university has three lessons to teach Europe](https://sifted.eu/articles/einsteins-university-has-three-lessons-to-teach-europe/)
+- [‘Build what can’t be cloned’: Fintech’s AI-native back office is getting crowded](https://sifted.eu/articles/ai-native-fintech-crowding/)
+- [Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem](https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/)
+- [Starling founder Anne Boden plots new AI-powered bank](https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/)
 - [Inside Samsung’s year of European deal making](https://sifted.eu/articles/samsung-european-tech/)
 - [Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers](https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/)
 - [Jensen Huang’s Nvidia exit shakes European tech](https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/)
@@ -34,13 +41,6 @@ _None this window._
 - [UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off](https://sifted.eu/articles/nscale-ipo-nvidia-delay/)
 - [Jobs of the future: Creator in residence](https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/)
 - [What it takes to build a globally competitive deeptech business in Europe](https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/)
-- [Who could replace Palantir in the NHS?](https://sifted.eu/articles/palantir-nhs-contract-procurement-startups-sovereignty/)
-- [Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI](https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/)
-- [Europe’s chips startups mapped: 113 companies building the hardware behind AI](https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/)
-- [Why Europe’s AI founders are opening accounting and law firms](https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/)
-- [Mistral pushes back on new AI copyright proposals, sparking outcry from creatives](https://sifted.eu/articles/mistral-copyright-law-proposal/)
-- [Jensen Huang pulls out of ElevenLabs Summit amid controversy](https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/)
-- [Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural](https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/)
 
 ### TechCrunch Europe (1)
 - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
