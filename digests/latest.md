@@ -1,13 +1,11 @@
-# Trend digest - 2026-11-16
+# Trend digest - 2026-11-17
 
-Window: last 7 days - 25 articles from 2/4 feeds
+Window: last 7 days - 24 articles from 1/4 feeds
 
 Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
 
-Note: 24/25 articles come from Sifted. A single-source window cannot produce a real cross-source trend.
-
 ## Cross-source repeats (2+ different sources)
-_None this window._
+_Not enough independent sources loaded - no trend signal this window._
 
 ## Watchlist keyword hits
 
@@ -17,6 +15,14 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [The Family cofounder sentenced to 16 months in prison](https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/)
+- [Exclusive: Munich-based humanoid startup Vesoma seeks €50m](https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/)
+- [Robotics startup Genesis AI raises $500m backed by Nvidia](https://sifted.eu/articles/genesis-ai-raises-500m/)
+- [Isomorphic Labs raises $5bn backed by Sequoia and A16z](https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/)
+- [EQT and FirstMark back trio of H Company alumni in $30m seed round](https://sifted.eu/articles/remanence-30m-seed-round/)
+- [Europe's world models startups: mapped](https://sifted.eu/articles/europe-world-models-mapped/)
+- [Legora’s revenue chief on hiring at speed, keeping culture intact and the need for ‘extreme urgency’](https://sifted.eu/articles/legoras-revenue-vp-leonard-schreij-interview/)
+- [Exclusive: Thiel-backed fintech Majority to merge with Rebtel](https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/)
 - [Starling Bank CEO to step down at the end of the year](https://sifted.eu/articles/starling-ceo-to-step-down/)
 - [Plural raises fresh €1bn fund to back ‘non-obvious companies’](https://sifted.eu/articles/plural-new-fund-e1bn/)
 - [Why a ban on non-competes could hurt startups](https://sifted.eu/articles/uk-non-compete-rules-change-against/)
@@ -33,14 +39,3 @@ _None this window._
 - [Accel leads $30m Series A for spatial AI defence startup SE3](https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/)
 - [How AI is changing procurement and supply chains](https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/)
 - [15 German startups to watch in 2026, according to VCs](https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/)
-- [Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’](https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/)
-- [European chips funding almost quadruples as investors back Nvidia’s inference challengers](https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/)
-- [Six European scientists building startups in stealth](https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/)
-- [Fractile confirms £540m raise first revealed by Sifted](https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/)
-- [Exclusive: Nvidia and Unity join Emulate’s $700m fundraise](https://sifted.eu/articles/exclusive-unity-nvidia-emulate/)
-- [UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off](https://sifted.eu/articles/nscale-ipo-nvidia-delay/)
-- [Jobs of the future: Creator in residence](https://sifted.eu/articles/jobs-of-the-future-creator-in-residence/)
-- [What it takes to build a globally competitive deeptech business in Europe](https://sifted.eu/articles/what-it-takes-to-build-a-competitive-deeptech-business-brnd/)
-
-### TechCrunch Europe (1)
-- [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
