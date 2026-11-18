@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-17
+# Trend digest - 2026-11-18
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -8,13 +8,17 @@ Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
 _Not enough independent sources loaded - no trend signal this window._
 
 ## Watchlist keyword hits
-
-### procurement (1)
-- [How AI is changing procurement and supply chains](https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/) - Sifted
+_None this window._
 
 ## All articles this window
 
 ### Sifted (24)
+- [How Payhawk raised $280m amid fintech downturn](https://sifted.eu/articles/payhawk-series-c/)
+- [ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI](https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/)
+- [How to bounce back from losing your dream job](https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/)
+- [Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test](https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/)
+- [8 key findings from Atomico’s State of European Tech report](https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/)
+- [Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents](https://sifted.eu/articles/disseqt-ai-agents-rogue/)
 - [The Family cofounder sentenced to 16 months in prison](https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/)
 - [Exclusive: Munich-based humanoid startup Vesoma seeks €50m](https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/)
 - [Robotics startup Genesis AI raises $500m backed by Nvidia](https://sifted.eu/articles/genesis-ai-raises-500m/)
@@ -33,9 +37,3 @@ _Not enough independent sources loaded - no trend signal this window._
 - [Inside Samsung’s year of European deal making](https://sifted.eu/articles/samsung-european-tech/)
 - [Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers](https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/)
 - [Jensen Huang’s Nvidia exit shakes European tech](https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/)
-- [Why is Northzone betting on scouts as Sequoia walks away?](https://sifted.eu/articles/sifted-podcast-northzone-northstars/)
-- [Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund](https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/)
-- [SoftBank leads $500m round for Agile Robots](https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/)
-- [Accel leads $30m Series A for spatial AI defence startup SE3](https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/)
-- [How AI is changing procurement and supply chains](https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/)
-- [15 German startups to watch in 2026, according to VCs](https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/)
