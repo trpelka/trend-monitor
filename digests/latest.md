@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-18
+# Trend digest - 2026-11-19
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -13,6 +13,14 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe](https://sifted.eu/articles/menlo-ventures-podcast/)
+- [EU Inc demands Brussels scrap ‘weak’ reforms, start over](https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/)
+- [Peace is a system. Europe stopped maintaining it.](https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/)
+- [Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe](https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/)
+- [The next big bets in AI compute](https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/)
+- [AI is making teams smaller — and the fight for real talent harder](https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/)
+- [The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer](https://sifted.eu/articles/lato-seed-round/)
+- [Ineffable’s David Silver on the race to superintelligence — and how to keep it safe](https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/)
 - [How Payhawk raised $280m amid fintech downturn](https://sifted.eu/articles/payhawk-series-c/)
 - [ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI](https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/)
 - [How to bounce back from losing your dream job](https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/)
@@ -29,11 +37,3 @@ _None this window._
 - [Exclusive: Thiel-backed fintech Majority to merge with Rebtel](https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/)
 - [Starling Bank CEO to step down at the end of the year](https://sifted.eu/articles/starling-ceo-to-step-down/)
 - [Plural raises fresh €1bn fund to back ‘non-obvious companies’](https://sifted.eu/articles/plural-new-fund-e1bn/)
-- [Why a ban on non-competes could hurt startups](https://sifted.eu/articles/uk-non-compete-rules-change-against/)
-- [Einstein’s university has three lessons to teach Europe](https://sifted.eu/articles/einsteins-university-has-three-lessons-to-teach-europe/)
-- [‘Build what can’t be cloned’: Fintech’s AI-native back office is getting crowded](https://sifted.eu/articles/ai-native-fintech-crowding/)
-- [Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem](https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/)
-- [Starling founder Anne Boden plots new AI-powered bank](https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/)
-- [Inside Samsung’s year of European deal making](https://sifted.eu/articles/samsung-european-tech/)
-- [Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers](https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/)
-- [Jensen Huang’s Nvidia exit shakes European tech](https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/)
