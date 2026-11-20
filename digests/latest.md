@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-19
+# Trend digest - 2026-11-20
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -13,6 +13,14 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [How a handful of European angels hit the Anthropic jackpot](https://sifted.eu/articles/european-angels-anthropic-ipo/)
+- [Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m](https://sifted.eu/articles/hoplite-raise-stripe-founders/)
+- [Inside Malmö: The Swedish city building the future of food](https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/)
+- [UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'](https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/)
+- [13 pre-seed fintechs to watch, according to VCs](https://sifted.eu/articles/pre-seed-fintechs-to-watch/)
+- [Inside Slush 2026: Robots, riches and the race to superintelligence](https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/)
+- [‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20](https://sifted.eu/articles/slush-20u20-2026/)
+- [Espoo closes in on Helsinki as Finland’s startup funding race tightens](https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/)
 - [Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe](https://sifted.eu/articles/menlo-ventures-podcast/)
 - [EU Inc demands Brussels scrap ‘weak’ reforms, start over](https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/)
 - [Peace is a system. Europe stopped maintaining it.](https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/)
@@ -29,11 +37,3 @@ _None this window._
 - [Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents](https://sifted.eu/articles/disseqt-ai-agents-rogue/)
 - [The Family cofounder sentenced to 16 months in prison](https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/)
 - [Exclusive: Munich-based humanoid startup Vesoma seeks €50m](https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/)
-- [Robotics startup Genesis AI raises $500m backed by Nvidia](https://sifted.eu/articles/genesis-ai-raises-500m/)
-- [Isomorphic Labs raises $5bn backed by Sequoia and A16z](https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/)
-- [EQT and FirstMark back trio of H Company alumni in $30m seed round](https://sifted.eu/articles/remanence-30m-seed-round/)
-- [Europe's world models startups: mapped](https://sifted.eu/articles/europe-world-models-mapped/)
-- [Legora’s revenue chief on hiring at speed, keeping culture intact and the need for ‘extreme urgency’](https://sifted.eu/articles/legoras-revenue-vp-leonard-schreij-interview/)
-- [Exclusive: Thiel-backed fintech Majority to merge with Rebtel](https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/)
-- [Starling Bank CEO to step down at the end of the year](https://sifted.eu/articles/starling-ceo-to-step-down/)
-- [Plural raises fresh €1bn fund to back ‘non-obvious companies’](https://sifted.eu/articles/plural-new-fund-e1bn/)
