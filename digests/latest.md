@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-20
+# Trend digest - 2026-11-21
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -13,6 +13,7 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Exclusive: Storonsky-backed Aikido seeks €4bn valuation](https://sifted.eu/articles/exclusive-aikido-4bn-valuation/)
 - [How a handful of European angels hit the Anthropic jackpot](https://sifted.eu/articles/european-angels-anthropic-ipo/)
 - [Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m](https://sifted.eu/articles/hoplite-raise-stripe-founders/)
 - [Inside Malmö: The Swedish city building the future of food](https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/)
@@ -36,4 +37,3 @@ _None this window._
 - [8 key findings from Atomico’s State of European Tech report](https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/)
 - [Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents](https://sifted.eu/articles/disseqt-ai-agents-rogue/)
 - [The Family cofounder sentenced to 16 months in prison](https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/)
-- [Exclusive: Munich-based humanoid startup Vesoma seeks €50m](https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/)
