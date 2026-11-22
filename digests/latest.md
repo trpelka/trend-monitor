@@ -1,16 +1,30 @@
-# Trend digest - 2026-11-21
+# Trend digest - 2026-11-22
 
-Window: last 7 days - 24 articles from 1/4 feeds
+Window: last 7 days - 34 articles from 2/4 feeds
 
-Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
+Feeds that failed to load: Tech.eu (HTTP 403)
+
+Note: 24/34 articles come from Sifted. A single-source window cannot produce a real cross-source trend.
 
 ## Cross-source repeats (2+ different sources)
-_Not enough independent sources loaded - no trend signal this window._
+_None this window._
 
 ## Watchlist keyword hits
 _None this window._
 
 ## All articles this window
+
+### EU-Startups (10)
+- [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)](https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/)
+- [UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible](https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/)
+- [Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers](https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/)
+- [Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine](https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/)
+- [Building in the UK? Key changes and deadlines founders need to know](https://www.eu-startups.com/2026/11/building-in-the-uk-key-changes-and-deadlines-founders-need-to-know/)
+- [Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe](https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe/)
+- [Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement](https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/)
+- [Gradyent lands €20 million EIB loan to expand digital twin technology across Europe’s heating networks](https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/)
+- [Mistral blazes ahead with an additional €100 million to their Series D by T.Capital](https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/)
+- [Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics](https://www.eu-startups.com/2026/11/munich-based-vetaion-raises-e5-7-million-to-automate-control-cabinet-manufacturing-with-ai-and-robotics/)
 
 ### Sifted (24)
 - [Exclusive: Storonsky-backed Aikido seeks €4bn valuation](https://sifted.eu/articles/exclusive-aikido-4bn-valuation/)
