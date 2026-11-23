@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-22
+# Trend digest - 2026-11-23
 
 Window: last 7 days - 34 articles from 2/4 feeds
 
@@ -10,23 +10,31 @@ Note: 24/34 articles come from Sifted. A single-source window cannot produce a r
 _None this window._
 
 ## Watchlist keyword hits
-_None this window._
+
+### compliance (1)
+- [German startup Playbook secures €8 million to help pharma companies deploy AI safely](https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/) - EU-Startups
 
 ## All articles this window
 
 ### EU-Startups (10)
+- [German startup Playbook secures €8 million to help pharma companies deploy AI safely](https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/)
+- [OPINION: Europe’s rearmament risks creating empty factories](https://www.eu-startups.com/2026/11/opinion-europes-rearmament-risks-creating-empty-factories/)
+- [UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure](https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/)
+- [Is Silicon Valley turning its back on Europe? Plug and Play’s Thomas Bigagli weighs in](https://www.eu-startups.com/2026/11/is-silicon-valley-turning-its-back-on-europe-plug-and-plays-thomas-bigagli-weighs-in/)
+- [OPINION: AI will favour the companies built for AI, not adapted to it](https://www.eu-startups.com/2026/11/opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it/)
+- [Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US](https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/)
+- [London-based Acorda raises €2.15 million to help banks detect payment scams before money moves](https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/)
+- [Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware](https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/)
+- [Paris-based HoloSolis raises over €15 million to advance €1 billion solar gigafactory in France](https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/)
 - [Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)](https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/)
-- [UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible](https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/)
-- [Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers](https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/)
-- [Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine](https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/)
-- [Building in the UK? Key changes and deadlines founders need to know](https://www.eu-startups.com/2026/11/building-in-the-uk-key-changes-and-deadlines-founders-need-to-know/)
-- [Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe](https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe/)
-- [Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement](https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/)
-- [Gradyent lands €20 million EIB loan to expand digital twin technology across Europe’s heating networks](https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/)
-- [Mistral blazes ahead with an additional €100 million to their Series D by T.Capital](https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/)
-- [Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics](https://www.eu-startups.com/2026/11/munich-based-vetaion-raises-e5-7-million-to-automate-control-cabinet-manufacturing-with-ai-and-robotics/)
 
 ### Sifted (24)
+- [Defence startup Agon raises $70m backed by Northzone and Lakestar](https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/)
+- [Sign up for the first London tech chess night](https://sifted.eu/articles/sign-up-for-the-first-london-tech-chess-night-brnd/)
+- [Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave](https://sifted.eu/articles/plural-fund-ai-podcast/)
+- [Why AI startups should build governance early](https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/)
+- [Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed](https://sifted.eu/articles/acorda-pre-seed/)
+- [Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models](https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/)
 - [Exclusive: Storonsky-backed Aikido seeks €4bn valuation](https://sifted.eu/articles/exclusive-aikido-4bn-valuation/)
 - [How a handful of European angels hit the Anthropic jackpot](https://sifted.eu/articles/european-angels-anthropic-ipo/)
 - [Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m](https://sifted.eu/articles/hoplite-raise-stripe-founders/)
@@ -45,9 +53,3 @@ _None this window._
 - [The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer](https://sifted.eu/articles/lato-seed-round/)
 - [Ineffable’s David Silver on the race to superintelligence — and how to keep it safe](https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/)
 - [How Payhawk raised $280m amid fintech downturn](https://sifted.eu/articles/payhawk-series-c/)
-- [ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI](https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/)
-- [How to bounce back from losing your dream job](https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/)
-- [Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test](https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/)
-- [8 key findings from Atomico’s State of European Tech report](https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/)
-- [Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents](https://sifted.eu/articles/disseqt-ai-agents-rogue/)
-- [The Family cofounder sentenced to 16 months in prison](https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/)
