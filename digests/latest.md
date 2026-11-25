@@ -1,37 +1,24 @@
-# Trend digest - 2026-11-24
+# Trend digest - 2026-11-25
 
-Window: last 7 days - 34 articles from 2/4 feeds
+Window: last 7 days - 24 articles from 1/4 feeds
 
-Feeds that failed to load: Tech.eu (HTTP 403)
-
-Note: 24/34 articles come from Sifted. A single-source window cannot produce a real cross-source trend.
+Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
 
 ## Cross-source repeats (2+ different sources)
-_None this window._
+_Not enough independent sources loaded - no trend signal this window._
 
 ## Watchlist keyword hits
-
-### Romania (1)
-- [Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics](https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/) - EU-Startups
-
-### compliance (1)
-- [German startup Playbook secures €8 million to help pharma companies deploy AI safely](https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/) - EU-Startups
+_None this window._
 
 ## All articles this window
 
-### EU-Startups (10)
-- [OPINION: Separate the hype from reality in China’s robotics race](https://www.eu-startups.com/2026/11/opinion-separate-the-hype-from-reality-in-chinas-robotics-race/)
-- [Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics](https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/)
-- [Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries](https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/)
-- [Frankfurt-based CommerzVentures closes €50 million Fund IV, betting on early-stage FinTech and AI](https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/)
-- [Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO](https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/)
-- [German startup Playbook secures €8 million to help pharma companies deploy AI safely](https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/)
-- [OPINION: Europe’s rearmament risks creating empty factories](https://www.eu-startups.com/2026/11/opinion-europes-rearmament-risks-creating-empty-factories/)
-- [UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure](https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/)
-- [Is Silicon Valley turning its back on Europe? Plug and Play’s Thomas Bigagli weighs in](https://www.eu-startups.com/2026/11/is-silicon-valley-turning-its-back-on-europe-plug-and-plays-thomas-bigagli-weighs-in/)
-- [OPINION: AI will favour the companies built for AI, not adapted to it](https://www.eu-startups.com/2026/11/opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it/)
-
 ### Sifted (24)
+- [PolyAI’s ex-machine learning chief raises $20m for new robotics startup](https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/)
+- [EU unveils Quantum Act with ‘plans for €50bn fund’ to boost sovereign tech](https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/)
+- [The best Christmas gifts for founders](https://sifted.eu/articles/the-best-christmas-gifts-for-founders/)
+- [How much do you know about your AI agents?](https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/)
+- [25 biotech startups to watch, according to VCs](https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/)
+- [How to build an AI-native VC fund](https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/)
 - [Why Europe’s sovereignty debate is heading to Luxembourg this March](https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/)
 - [Exclusive: Starling veteran to take over as CEO](https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/)
 - [Who could be Starling’s next CEO?](https://sifted.eu/articles/starlings-next-ceo/)
@@ -50,9 +37,3 @@ _None this window._
 - [13 pre-seed fintechs to watch, according to VCs](https://sifted.eu/articles/pre-seed-fintechs-to-watch/)
 - [Inside Slush 2026: Robots, riches and the race to superintelligence](https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/)
 - [‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20](https://sifted.eu/articles/slush-20u20-2026/)
-- [Espoo closes in on Helsinki as Finland’s startup funding race tightens](https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/)
-- [Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe](https://sifted.eu/articles/menlo-ventures-podcast/)
-- [EU Inc demands Brussels scrap ‘weak’ reforms, start over](https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/)
-- [Peace is a system. Europe stopped maintaining it.](https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/)
-- [Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe](https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/)
-- [The next big bets in AI compute](https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/)
