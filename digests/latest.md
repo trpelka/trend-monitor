@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-25
+# Trend digest - 2026-11-26
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -13,6 +13,13 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Introducing the Skinner-Shah Award for Journalism](https://sifted.eu/articles/the-skinner-shah-award-for-journalism/)
+- [ElevenLabs in talks to raise funding at $33bn valuation, reports say](https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/)
+- [Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale](https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/)
+- [Meet Goldfish: The kings of Slush aiming to take on Apple](https://sifted.eu/articles/goldfish-slush-100-winners/)
+- [‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech](https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/)
+- [Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say](https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/)
+- [Proxima Fusion CEO calls out ‘short-termism’ amid AI boom](https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/)
 - [PolyAI’s ex-machine learning chief raises $20m for new robotics startup](https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/)
 - [EU unveils Quantum Act with ‘plans for €50bn fund’ to boost sovereign tech](https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/)
 - [The best Christmas gifts for founders](https://sifted.eu/articles/the-best-christmas-gifts-for-founders/)
@@ -30,10 +37,3 @@ _None this window._
 - [Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed](https://sifted.eu/articles/acorda-pre-seed/)
 - [Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models](https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/)
 - [Exclusive: Storonsky-backed Aikido seeks €4bn valuation](https://sifted.eu/articles/exclusive-aikido-4bn-valuation/)
-- [How a handful of European angels hit the Anthropic jackpot](https://sifted.eu/articles/european-angels-anthropic-ipo/)
-- [Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m](https://sifted.eu/articles/hoplite-raise-stripe-founders/)
-- [Inside Malmö: The Swedish city building the future of food](https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/)
-- [UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'](https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/)
-- [13 pre-seed fintechs to watch, according to VCs](https://sifted.eu/articles/pre-seed-fintechs-to-watch/)
-- [Inside Slush 2026: Robots, riches and the race to superintelligence](https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/)
-- [‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20](https://sifted.eu/articles/slush-20u20-2026/)
