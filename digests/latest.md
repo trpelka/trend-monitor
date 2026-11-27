@@ -1,4 +1,4 @@
-# Trend digest - 2026-11-26
+# Trend digest - 2026-11-27
 
 Window: last 7 days - 24 articles from 1/4 feeds
 
@@ -13,6 +13,10 @@ _None this window._
 ## All articles this window
 
 ### Sifted (24)
+- [Welcome to venture feudalism](https://sifted.eu/articles/welcome-to-venture-feudalism/)
+- [Can Europe’s neolabs live up to the hype?](https://sifted.eu/articles/europe-neolab-live-up-to-hype/)
+- ['Never say never': US fintech giant Ramp on more European acquisitions](https://sifted.eu/articles/ramp-europe-expansion-interview/)
+- [‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams](https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/)
 - [Introducing the Skinner-Shah Award for Journalism](https://sifted.eu/articles/the-skinner-shah-award-for-journalism/)
 - [ElevenLabs in talks to raise funding at $33bn valuation, reports say](https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/)
 - [Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale](https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/)
@@ -33,7 +37,3 @@ _None this window._
 - [Defence startup Agon raises $70m backed by Northzone and Lakestar](https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/)
 - [Sign up for the first London tech chess night](https://sifted.eu/articles/sign-up-for-the-first-london-tech-chess-night-brnd/)
 - [Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave](https://sifted.eu/articles/plural-fund-ai-podcast/)
-- [Why AI startups should build governance early](https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/)
-- [Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed](https://sifted.eu/articles/acorda-pre-seed/)
-- [Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models](https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/)
-- [Exclusive: Storonsky-backed Aikido seeks €4bn valuation](https://sifted.eu/articles/exclusive-aikido-4bn-valuation/)
