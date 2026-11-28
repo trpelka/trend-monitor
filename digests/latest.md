@@ -1,11 +1,12 @@
-# Trend digest - 2026-11-27
+# Trend digest - 2026-11-28
 
-Window: last 7 days - 24 articles from 1/4 feeds
+Window: last 7 days - 44 articles from 2/4 feeds
 
-Feeds that failed to load: Tech.eu (HTTP 403), EU-Startups (HTTP 403)
+Feeds that failed to load: EU-Startups (HTTP 403)
 
 ## Cross-source repeats (2+ different sources)
-_Not enough independent sources loaded - no trend signal this window._
+- **anthropic months** - Sifted, Tech.eu
+- **tom blomfield** - Sifted, Tech.eu
 
 ## Watchlist keyword hits
 _None this window._
@@ -37,3 +38,25 @@ _None this window._
 - [Defence startup Agon raises $70m backed by Northzone and Lakestar](https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/)
 - [Sign up for the first London tech chess night](https://sifted.eu/articles/sign-up-for-the-first-london-tech-chess-night-brnd/)
 - [Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave](https://sifted.eu/articles/plural-fund-ai-podcast/)
+
+### Tech.eu (20)
+- [Belgian cyber insurance startup Inqase raises €1M](https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/)
+- [Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M](https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/)
+- [Cutting the cord: How Willo is taking wireless power into the third dimension](https://tech.eu/2026/11/27/cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension/)
+- [Beyond the taboo: Polari Labs brings biotech innovation to anorectal health](https://tech.eu/2026/11/27/beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health/)
+- [Papa John’s pizza order first UK cardless payment by AI agent](https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/)
+- [Lampsy Health raises €1.1M to shine a light on undetected night-time seizures](https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/)
+- [Transportation: Europe’s 10 most-funded companies in H1 2026](https://tech.eu/2026/11/26/transportation-europes-10-most-funded-companies-in-h1-2026/)
+- [What separates AI features that pay off from expensive demos [Sponsored]](https://tech.eu/2026/11/26/what-separates-ai-features-that-pay-off-from-expensive-demos/)
+- [Where the AI economy meets: RAISE Summit returns to Paris, 6–8 July 2027 [Sponsored]](https://tech.eu/2026/11/26/where-the-ai-economy-meets-raise-summit-returns-to-paris-6-8-july-2027/)
+- [General Catalyst backs 17-year-old Austrian's quant trading startup](https://tech.eu/2026/11/26/general-catalyst-backs-17-year-old-austrians-quant-trading-startup/)
+- [Audun raises $3M to modernise debt collection with AI](https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/)
+- [From €10,000 to 6 million connected cars: The bootstrapped rise of Lithuania's OBDeleven](https://tech.eu/2026/11/26/from-eur10000-to-6-million-connected-cars-the-bootstrapped-rise-of-obdeleven/)
+- [EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising](https://tech.eu/2026/11/26/eu-inc-is-in-crisis-but-1m-backed-shuttle-isnt-waiting-for-europe-to-fix-cross-border-fundraising/)
+- [WaterSense raises €5.75M to build Europe's water intelligence infrastructure](https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/)
+- [ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology](https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/)
+- [Permut raises €3M to turn conversational AI into a revenue driver for brands](https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands/)
+- [Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring](https://tech.eu/2026/11/25/aqura-systems-raises-ps21m-to-advance-ai-powered-fish-farm-monitoring/)
+- [EU proposes €50BN equity fund to support quantum and essential sovereign tech](https://tech.eu/2026/11/25/eu-proposes-eur50-billion-equity-fund-to-support-quantum-and-essential-sovereign-tech/)
+- [Tom Blomfield has left Anthropic after less than six months](https://tech.eu/2026/11/25/tom-blomfield-leaves-anthropic-after-less-than-six-months/)
+- [‘Europe must do whatever it takes’: Tech founders and political leaders demand decisive action on Ukraine](https://tech.eu/2026/11/25/europe-must-do-whatever-it-takes-tech-founders-and-political-leaders-demand-decisive-action-on-ukraine/)
